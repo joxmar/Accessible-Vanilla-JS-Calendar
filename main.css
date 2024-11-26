@@ -1,0 +1,26 @@
+.calendar-container {
+  margin-top: 3.5rem;
+}
+
+.month-year-header {
+  margin-bottom: 16px;
+  font-weight: bold;
+  font-size: 1.25rem; /* 20px */
+  line-height: 1.75rem;
+}
+
+.calendar,
+.day-names {
+  display: grid;
+  font-size: var(--kalel-fz, small);
+  grid-row-gap: var(--kalel-row-gap, 0.33em);
+  grid-template-columns: var(--kalel-gtc, repeat(7, 1fr));
+  list-style: none;
+  margin: unset;
+  padding: unset;
+  position: relative;
+}
+
+.current-day {
+  color: red;
+}

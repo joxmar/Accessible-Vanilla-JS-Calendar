@@ -1,0 +1,2584 @@
+[
+  {
+    "id": 265,
+    "date": "2024-12-10T08:48:28",
+    "date_gmt": "2024-12-10T14:48:28",
+    "guid": {
+      "rendered": "https://ll-sandbox.mystagingwebsite.com/events/?post_type=events&#038;p=265"
+    },
+    "modified": "2024-12-10T08:48:28",
+    "modified_gmt": "2024-12-10T14:48:28",
+    "slug": "vel-ducimus-aut-voluptatem",
+    "status": "publish",
+    "type": "events",
+    "link": "https://ll-sandbox.mystagingwebsite.com/events/events/vel-ducimus-aut-voluptatem/",
+    "title": {
+      "rendered": "vel ducimus aut voluptatem"
+    },
+    "content": {
+      "rendered": "\n\u003Ch5 class=\"wp-block-heading\"\u003EPerspiciatis repellat quis magnam deleniti sunt. Assumenda dolor officia ea et ex. Accusamus laudantium consequatur ab vel\u003C/h5\u003E\n\n\n\n\u003Col class=\"wp-block-list\"\u003E\n\u003Cli\u003EBeatae quo doloremque distinctio quis\u003C/li\u003E\n\n\n\n\u003Cli\u003EDignissimos\u003C/li\u003E\n\n\n\n\u003Cli\u003EEt eos quibusdam et\u003C/li\u003E\n\n\n\n\u003Cli\u003EHic iusto tempora rerum id\u003C/li\u003E\n\u003C/ol\u003E\n\n\n\n\u003Ch5 class=\"wp-block-heading\"\u003EQuaerat libero eveniet quas et. Cum nihil neque iusto alias\u003C/h5\u003E\n\n\n\n\u003C!--more--\u003E\n\n\n\n\u003Cul class=\"wp-block-list\"\u003E\n\u003Cli\u003EUllam sed ut eligendi\u003C/li\u003E\n\n\n\n\u003Cli\u003ENisi hic ut eligendi culpa\u003C/li\u003E\n\n\n\n\u003Cli\u003EFacere est dicta dignissimos voluptatem\u003C/li\u003E\n\n\n\n\u003Cli\u003EQuae\u003C/li\u003E\n\n\n\n\u003Cli\u003ELaudantium vel ducimus aut voluptatem fuga aut sunt\u003C/li\u003E\n\u003C/ul\u003E\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "\u003Cp\u003EPerspiciatis repellat quis magnam deleniti sunt. Assumenda dolor officia ea et ex. Accusamus laudantium consequatur ab vel Quaerat libero eveniet quas et. Cum nihil neque iusto alias\u003C/p\u003E\n",
+      "protected": false
+    },
+    "featured_media": 0,
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "footnotes": ""
+    },
+    "events_categories": [
+      6
+    ],
+    "class_list": [
+      "post-265",
+      "events",
+      "type-events",
+      "status-publish",
+      "hentry",
+      "events_categories-c"
+    ],
+    "acf": {
+      "start_date": "20250130",
+      "end_date": "20250202",
+      "recurrence_frequency": "0",
+      "starting_time": "",
+      "ending_time": "",
+      "event_place": "location",
+      "virtual_event_link": "",
+      "location_name": "",
+      "location_address": {
+        "address": "1/441 Little Bourke St, Melbourne VIC 3000, Australia",
+        "lat": -37.8143462632143,
+        "lng": 144.959718026428,
+        "zoom": 14,
+        "place_id": "ChIJOYbEF0td1moR3i_DVmH7TUM",
+        "street_number": 441,
+        "street_name": "Little Bourke Street",
+        "street_name_short": "Little Bourke St",
+        "city": "Melbourne",
+        "state": "Victoria",
+        "state_short": "VIC",
+        "post_code": 3000,
+        "country": "Australia",
+        "country_short": "AU"
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events/265",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/types/events"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 1,
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events/265/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 266,
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events/265/revisions/266"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/media?parent=265"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "events_categories",
+          "embeddable": true,
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events_categories?post=265"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 229,
+    "date": "2024-12-08T23:00:44",
+    "date_gmt": "2024-12-09T05:00:44",
+    "guid": {
+      "rendered": "https://ll-sandbox.mystagingwebsite.com/events/events/est-qui-molestiae-perspiciatis-reiciendis-quia/"
+    },
+    "modified": "2024-12-09T15:45:48",
+    "modified_gmt": "2024-12-09T21:45:48",
+    "slug": "est-qui-molestiae-perspiciatis-reiciendis-quia",
+    "status": "publish",
+    "type": "events",
+    "link": "https://ll-sandbox.mystagingwebsite.com/events/events/est-qui-molestiae-perspiciatis-reiciendis-quia/",
+    "title": {
+      "rendered": "Est qui molestiae perspiciatis reiciendis quia"
+    },
+    "content": {
+      "rendered": "\u003Ch6\u003EIncidunt debitis iure quaerat iusto\u003C/h6\u003E\n\u003Cp\u003E\u003Ca title=\"Aliquam incidunt voluptatum perferendis voluptatem qui.\" href=\"http://thompson.net/omnis-commodi-sit-aut-sit\"\u003E\u003Ca title=\"Blanditiis temporibus quia.\" href=\"http://hagenes.info/quia-dolorum-eum-aut-facilis-rerum\"\u003E\u003Ca title=\"Harum sint ut in rerum et minus amet et dolorem.\" href=\"http://www.mcdermott.info/dolore-et-minima-tenetur-possimus-quos-pariatur.html\"\u003E\u003Ca title=\"Rerum vero dolor.\" href=\"https://turcotte.biz/sunt-eveniet-alias-labore-ratione-incidunt-repudiandae.html\"\u003E\u003Ca title=\"Dolorem totam maxime id.\" href=\"http://www.keeling.com/voluptas-nisi-dolorum-ut-et-atque\"\u003E\u003Ca title=\"A.\" href=\"http://price.com/eius-tenetur-aut-molestiae-dolor-veniam.html\"\u003E\u003Ca title=\"Enim quis itaque est.\" href=\"http://www.murazik.com/voluptatem-sed-nisi-dicta-natus-harum-recusandae-quisquam.html\"\u003E\u003Ca title=\"Magni eveniet cupiditate nemo molestiae quos.\" href=\"https://kulas.com/est-totam-blanditiis-libero-et-est-atque-et.html\"\u003ENeque libero blanditiis\u003C/a\u003E\u003C/a\u003E\u003C/a\u003E\u003C/a\u003E\u003C/a\u003E\u003C/a\u003E\u003C/a\u003E\u003C/a\u003E Dignissimos velit id quia Sunt qui saepe ut et\u003C/p\u003E\n\u003Cp\u003E\u003Ca title=\"Ut molestiae ipsa recusandae.\" href=\"http://walker.com/facilis-culpa-magnam-mollitia-quo-et-quia\"\u003EFugiat magni consequatur repellendus eos rem enim optio.\u003C/a\u003E \u003Ca title=\"Quisquam reiciendis.\" href=\"http://gutmann.com/inventore-porro-ullam-id-ratione-et\"\u003Ealiquam aut\u003C/a\u003E \u003Ca title=\"Repudiandae maiores eum.\" href=\"https://www.cronin.biz/unde-enim-autem-sunt-et-dolore-quidem-placeat\"\u003Enisi. Recusandae modi occaecati est soluta\u003C/a\u003E \u003Ca title=\"Omnis quibusdam et laboriosam occaecati.\" href=\"http://gislason.com/deserunt-cumque-ex-eos-quae-repellendus\"\u003Eet ullam\u003C/a\u003E \u003Ca title=\"Eos voluptas voluptatum vitae labore nulla nesciunt porro.\" href=\"http://thiel.com/\"\u003ESimilique beatae earum modi\u003C/a\u003E inventore maxime.\u003C/p\u003E\n\u003Ch5\u003EPerspiciatis repellat quis magnam deleniti sunt. Assumenda dolor officia ea et ex. Accusamus laudantium consequatur ab vel\u003C/h5\u003E\n\u003Col\u003E\n\u003Cli\u003EBeatae quo doloremque distinctio quis\u003C/li\u003E\n\u003Cli\u003EDignissimos\u003C/li\u003E\n\u003Cli\u003EEt eos quibusdam et\u003C/li\u003E\n\u003Cli\u003EHic iusto tempora rerum id\u003C/li\u003E\n\u003C/ol\u003E\n\u003Ch5\u003EQuaerat libero eveniet quas et. Cum nihil neque iusto alias\u003C/h5\u003E\n\u003Cp\u003E\u003C!--more--\u003E\u003C/p\u003E\n\u003Cul\u003E\n\u003Cli\u003EUllam sed ut eligendi\u003C/li\u003E\n\u003Cli\u003ENisi hic ut eligendi culpa\u003C/li\u003E\n\u003Cli\u003EFacere est dicta dignissimos voluptatem\u003C/li\u003E\n\u003Cli\u003EQuae\u003C/li\u003E\n\u003Cli\u003ELaudantium vel ducimus aut voluptatem fuga aut sunt\u003C/li\u003E\n\u003C/ul\u003E\n\u003Chr\u003E\n\u003Ch5\u003EQuidem exercitationem quam ut aliquid omnis incidunt\u003C/h5\u003E\n\u003Cp\u003E\u003Cimg decoding=\"async\" alt=\"Magni molestias eius repudiandae inventore deserunt\" src=\"https://ll-sandbox.mystagingwebsite.com/events/wp-content/uploads/sites/5/2024/12/e198ba0e-924f-3535-9810-2e1ed943af75.jpg\"\u003E\u003C/p\u003E\n\u003Cul\u003E\n\u003Cli\u003EBeatae et consequatur\u003C/li\u003E\n\u003Cli\u003EAut quae sit fugiat\u003C/li\u003E\n\u003C/ul\u003E\n\u003Ch5\u003EOfficiis non sit cumque ratione. Et suscipit in quia qui et. Repudiandae alias odio veniam alias et\u003C/h5\u003E\n\u003Cblockquote\u003E\u003Cp\u003ESed qui eos. vel impedit fugiat. Laboriosam provident tempora sit hic Eligendi quis aut quia. Excepturi repellat dolor deserunt. Qui necessitatibus \u003Ca title=\"Tempore perferendis voluptatem mollitia est eos.\" href=\"https://cartwright.com/nesciunt-enim-tempora-ut-et-accusantium-eaque-praesentium.html\"\u003Easpernatur facilis\u003C/a\u003E eligendi. Nihil laudantium quia numquam. Minus aperiam vitae officiis adipisci. Eius ipsam qui dolore recusandae Ipsum eaque libero tenetur et. possimus quam at. ad odit qui rem voluptatum ipsam. Animi at consectetur distinctio. autem non magnam dolorem voluptas. Placeat ullam impedit consequatur corrupti. Culpa qui vitae ut voluptate quis. Iste recusandae dolorem dolores non. Quae quia quae in pariatur. Quisquam fugiat maiores et necessitatibus. Saepe voluptas culpa dolore nesciunt. Quia eum sapiente sint aliquam Ipsam harum optio consectetur Commodi vel quod vero maiores enim voluptatibus. Labore animi aut et molestiae. Omnis quibusdam rerum praesentium doloremque. Repudiandae quia sequi quis voluptatem.\u003C/p\u003E\u003C/blockquote\u003E\n\u003Cblockquote\u003E\u003Cp\u003EEt consequatur voluptas consequatur dignissimos vitae aut. Vitae consequatur sed cumque aut Enim ullam qui sunt \u003Ca title=\"Magni doloribus.\" href=\"http://leuschke.com/omnis-porro-itaque-magni.html\"\u003Eenim\u003C/a\u003E consequatur. Tempora ex qui mollitia. Ipsa saepe quod in. est laborum quia aut Id officiis culpa neque ipsa qui. Eaque molestiae ad ad quis et Eveniet sed omnis minus ab exercitationem Est ut et est. Sed magni aperiam commodi est. Totam quisquam aut eum. Libero nulla ut animi odit Dolorum dolor quasi ullam. Inventore odio quis explicabo. In repellat in assumenda eum Aut quas aut impedit \u003Ca title=\"Consectetur est officiis sint nihil aut et.\" href=\"http://www.west.com/voluptas-et-aliquid-voluptas-laudantium-doloremque-blanditiis.html\"\u003Eaut est. Fuga quia\u003C/a\u003E veniam tenetur sit nulla. Ipsum et delectus provident dolor expedita. fugit et itaque quas. blanditiis officia perspiciatis possimus. Sint soluta quas qui cum. eum debitis repellat. Accusantium occaecati quae facilis numquam velit. Aut aut non eveniet. Magnam illum minus adipisci quo ex. Aliquid sed molestiae optio doloribus officia. Rem ullam ab velit vel omnis. Praesentium accusamus eos assumenda et dignissimos Repudiandae excepturi perferendis enim est dolorum. eius voluptatem quae \u003Ca title=\"Quo distinctio aut qui.\" href=\"https://mayer.info/tenetur-nisi-velit-vel-sint-repudiandae-doloribus.html\"\u003Eut et officiis.\u003C/a\u003E dicta ea non libero temporibus veniam. Reprehenderit quo temporibus excepturi in aliquid. Qui aut quae nam.\u003C/p\u003E\u003C/blockquote\u003E\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "\u003Cp\u003EIncidunt debitis iure quaerat iusto Neque libero blanditiis Dignissimos velit id quia Sunt qui saepe ut et Fugiat magni consequatur repellendus eos rem enim optio. aliquam aut nisi. Recusandae modi occaecati est soluta et ullam Similique beatae earum modi inventore maxime. Perspiciatis repellat quis magnam deleniti sunt. Assumenda dolor officia ea et ex. Accusamus laudantium [&hellip;]\u003C/p\u003E\n",
+      "protected": false
+    },
+    "featured_media": 0,
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "footnotes": ""
+    },
+    "events_categories": [
+      5
+    ],
+    "class_list": [
+      "post-229",
+      "events",
+      "type-events",
+      "status-publish",
+      "hentry",
+      "events_categories-b"
+    ],
+    "acf": {
+      "start_date": "20250127",
+      "end_date": "20250131",
+      "recurrence_frequency": "0",
+      "starting_time": "",
+      "ending_time": "",
+      "event_place": "location",
+      "virtual_event_link": "",
+      "location_name": "",
+      "location_address": {
+        "address": "326 Swanston St, Melbourne VIC 3000, Australia",
+        "lat": -37.8099195740156,
+        "lng": 144.964599609375,
+        "zoom": 14,
+        "place_id": "ChIJ3Wacp8tC1moRuI5KWaMQb-0",
+        "street_number": 326,
+        "street_name": "Swanston Street",
+        "street_name_short": "Swanston St",
+        "city": "Melbourne",
+        "state": "Victoria",
+        "state_short": "VIC",
+        "post_code": 3000,
+        "country": "Australia",
+        "country_short": "AU"
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events/229",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/types/events"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 1,
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events/229/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 251,
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events/229/revisions/251"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/media?parent=229"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "events_categories",
+          "embeddable": true,
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events_categories?post=229"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 246,
+    "date": "2024-12-08T22:53:29",
+    "date_gmt": "2024-12-09T04:53:29",
+    "guid": {
+      "rendered": "https://ll-sandbox.mystagingwebsite.com/events/events/iste-odit-ut-dignissimos/"
+    },
+    "modified": "2024-12-09T15:46:46",
+    "modified_gmt": "2024-12-09T21:46:46",
+    "slug": "iste-odit-ut-dignissimos",
+    "status": "publish",
+    "type": "events",
+    "link": "https://ll-sandbox.mystagingwebsite.com/events/events/iste-odit-ut-dignissimos/",
+    "title": {
+      "rendered": "Iste odit ut dignissimos"
+    },
+    "content": {
+      "rendered": "\u003Cul\u003E\n\u003Cli\u003EEaque labore sed consequatur illo nulla non iure\u003C/li\u003E\n\u003Cli\u003EEt sunt illo consequatur amet\u003C/li\u003E\n\u003Cli\u003EIn eum laboriosam sit cum est\u003C/li\u003E\n\u003Cli\u003EQui\u003C/li\u003E\n\u003Cli\u003ESed nulla nostrum ullam\u003C/li\u003E\n\u003C/ul\u003E\n\u003Ch3\u003EOfficia ad et enim tenetur est. Magni rerum sunt nisi mollitia vitae ex aspernatur excepturi\u003C/h3\u003E\n\u003Cp\u003EAutem id eos. quia quaerat sed nisi corporis. Voluptatem quod accusamus et ab officia atque Cupiditate nesciunt voluptatem Ipsa fugiat nam rerum. Minus enim tempora cumque ab \u003Ca title=\"Est nihil.\" href=\"http://lakin.com/\"\u003Esint.\u003C/a\u003E facilis quasi ut repellendus Vel quod et tenetur repudiandae Eveniet harum vel est Vel cumque quis aut eum Delectus dolorem quaerat aliquam sed ut exercitationem quam. Dolores harum est minus aut mollitia At animi voluptas qui Vel omnis aperiam ut voluptates. nostrum totam et. Ipsa omnis eaque ut ipsam sit. Ex et rerum est praesentium ad. Autem dicta est cumque quos rerum. Nisi dolor tempore iusto totam at Consectetur quos ut et quia qui. voluptatem sint ea quos molestiae. nesciunt aut dolores. Maxime quia similique voluptatibus magnam et. Necessitatibus voluptatibus laboriosam rerum. maxime quam ut sunt at. dicta similique non quibusdam ut eos. dolores ut et quisquam ducimus ratione. harum ipsum et ea et In blanditiis voluptatem delectus esse. Quia optio \u003Ca title=\"Velit cum odio praesentium rerum sit totam.\" href=\"http://roob.com/neque-vel-iste-libero-ut\"\u003Edolores\u003C/a\u003E Esse voluptatem incidunt. Eum in non repellendus. Quia autem quam ratione Nemo consequuntur est rem facere molestias necessitatibus. Quod deserunt earum molestias voluptatem amet. aut excepturi provident.\u003C/p\u003E\n\u003Ch1\u003EImpedit maiores porro similique expedita voluptate. Similique quis vitae vel est\u003C/h1\u003E\n\u003Cp\u003E\u003C!--more--\u003E\u003C/p\u003E\n\u003Ch4\u003EEst numquam illo dolor omnis facere doloribus. Quam rerum nobis ab consequatur\u003C/h4\u003E\n\u003Cp\u003E\u003Ca title=\"Voluptas perferendis maxime cupiditate ipsam atque.\" href=\"http://fay.info/neque-commodi-quia-et-aut\"\u003ESuscipit et\u003C/a\u003E asperiores dolorem. Placeat commodi consectetur placeat Tempora corporis enim ratione libero provident mollitia sed. \u003Ca title=\"Odio earum quisquam quia.\" href=\"http://ortiz.biz/optio-aut-quibusdam-voluptatem-suscipit-id\"\u003Eincidunt minima autem nihil maiores\u003C/a\u003E Quasi commodi voluptatem facilis Facere sapiente sed possimus nobis sequi Voluptatum sint necessitatibus tempore inventore. Aut eos voluptatum animi. Nihil et nesciunt qui quia Recusandae cum sunt labore molestiae. \u003Ca title=\"Libero.\" href=\"http://lockman.com/molestias-neque-sed-cumque-quasi.html\"\u003Eet voluptas incidunt\u003C/a\u003E delectus omnis reiciendis. Sapiente ducimus quia error \u003Ca title=\"Reprehenderit qui velit.\" href=\"http://www.armstrong.com/impedit-eius-laborum-qui-minima-ipsa-facere-veritatis-ab\"\u003Equi. Sunt quia\u003C/a\u003E esse voluptates. Et itaque \u003Ca title=\"Nisi laudantium molestiae.\" href=\"http://bosco.biz/quis-neque-nesciunt-esse-sequi-ex-asperiores-eveniet.html\"\u003Esoluta id ipsa.\u003C/a\u003E ipsum doloremque dolor. Ut quae molestiae.\u003C/p\u003E\n\u003Ch5\u003ECorrupti ad quam quia. Quas quis nulla facere vel sit occaecati. Et et ipsam in nostrum sunt. Rerum beatae consequatur aliquam odio nulla est\u003C/h5\u003E\n\u003Chr\u003E\n\u003Ch2\u003EEum itaque incidunt quia reiciendis et qui sit. Cumque aliquid voluptatem molestiae doloremque enim repellendus qui\u003C/h2\u003E\n\u003Cblockquote\u003E\u003Cp\u003EVoluptatibus a in perferendis qui aspernatur \u003Ca title=\"Neque quae optio.\" href=\"http://konopelski.org/velit-quidem-nulla-voluptas-et-aperiam-quis.html\"\u003E\u003Ca title=\"Consequatur provident eligendi vel dicta expedita.\" href=\"https://kirlin.net/est-dicta-vitae-quidem-veniam-et.html\"\u003Eoccaecati ab. Debitis ut officia labore\u003C/a\u003E\u003C/a\u003E magnam velit. Voluptates \u003Ca title=\"Sit.\" href=\"https://bogan.com/eum-eveniet-delectus-reprehenderit-sequi.html\"\u003Eearum ut quae enim\u003C/a\u003E \u003Ca title=\"Est id eos earum alias et autem.\" href=\"http://ratke.org/veritatis-fugiat-vitae-blanditiis-quas-est-quo.html\"\u003Eitaque. Et facere\u003C/a\u003E \u003Ca title=\"Vel delectus voluptate libero.\" href=\"https://www.miller.com/nesciunt-voluptatem-est-distinctio-est\"\u003Edeleniti. Et est veniam vero omnis. Aperiam\u003C/a\u003E \u003Ca title=\"Dolorem sed.\" href=\"http://www.bechtelar.info/a-eum-non-unde\"\u003Esint nemo et.\u003C/a\u003E \u003Ca title=\"Voluptas minima officiis rerum minima.\" href=\"http://www.mueller.info/praesentium-maxime-qui-doloribus-magni\"\u003E\u003Ca title=\"Dolore alias recusandae delectus saepe voluptates corporis dolor.\" href=\"http://www.kuhic.com/dolore-aut-dignissimos-nobis-illum\"\u003Eipsam\u003C/a\u003E\u003C/a\u003E \u003Ca title=\"Voluptatum odit.\" href=\"http://krajcik.com/dolorem-et-explicabo-magnam-odio-ea\"\u003Esapiente et. Eaque\u003C/a\u003E rerum dolores et.\u003C/p\u003E\u003C/blockquote\u003E\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "\u003Cp\u003EDebitis facilis sint sed.\u003C/p\u003E\n",
+      "protected": false
+    },
+    "featured_media": 0,
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "footnotes": ""
+    },
+    "events_categories": [
+      4
+    ],
+    "class_list": [
+      "post-246",
+      "events",
+      "type-events",
+      "status-publish",
+      "hentry",
+      "events_categories-a"
+    ],
+    "acf": {
+      "start_date": "20250224",
+      "end_date": "20250228",
+      "recurrence_frequency": "0",
+      "starting_time": "",
+      "ending_time": "",
+      "event_place": "location",
+      "virtual_event_link": "",
+      "location_name": "",
+      "location_address": {
+        "address": "190 Brunton Ave, East Melbourne VIC 3002, Australia",
+        "lat": -37.8199548370916,
+        "lng": 144.983396530151,
+        "zoom": 14,
+        "place_id": "ChIJTdfc5b9C1moRVVlTSXfFc9Q",
+        "street_number": 190,
+        "street_name": "Brunton Avenue",
+        "street_name_short": "Brunton Ave",
+        "city": "East Melbourne",
+        "state": "Victoria",
+        "state_short": "VIC",
+        "post_code": 3002,
+        "country": "Australia",
+        "country_short": "AU"
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events/246",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/types/events"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 1,
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events/246/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 252,
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events/246/revisions/252"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/media?parent=246"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "events_categories",
+          "embeddable": true,
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events_categories?post=246"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 250,
+    "date": "2024-12-08T22:41:28",
+    "date_gmt": "2024-12-09T04:41:28",
+    "guid": {
+      "rendered": "https://ll-sandbox.mystagingwebsite.com/events/events/quaerat-corporis-occaecati-et-quia-et-enim/"
+    },
+    "modified": "2024-12-09T15:47:52",
+    "modified_gmt": "2024-12-09T21:47:52",
+    "slug": "quaerat-corporis-occaecati-et-quia-et-enim",
+    "status": "publish",
+    "type": "events",
+    "link": "https://ll-sandbox.mystagingwebsite.com/events/events/quaerat-corporis-occaecati-et-quia-et-enim/",
+    "title": {
+      "rendered": "Quaerat corporis occaecati et quia et enim"
+    },
+    "content": {
+      "rendered": "\u003Ch1\u003EEt odit est soluta. Voluptatibus voluptatem voluptatem qui. Esse architecto ad quas porro\u003C/h1\u003E\n\u003Cp\u003ECorrupti quis vero asperiores repudiandae suscipit quam. Consequatur explicabo aut placeat ea ut. Asperiores neque quisquam ipsa voluptatem. Eligendi dolores consequatur id optio nam. Ipsa aspernatur quam et qui assumenda quia. Quia et ea reiciendis quod perferendis placeat iure. Ex iusto tempora perferendis enim. Incidunt facilis harum facere doloremque. Cumque voluptas sint ut quisquam doloremque consectetur soluta aut. Sed maiores mollitia hic rerum in. Voluptatum eveniet rem eum voluptatem ut. Omnis quae et voluptate officia. Aut architecto iure natus illo ut adipisci fugit. Aperiam error illum dignissimos voluptas est dolores velit corrupti. Libero quidem possimus dolor quia. Ipsum sed fugit dolores asperiores molestiae omnis. Tempore enim et dicta ea omnis. Quia consequatur labore reiciendis et quaerat. Voluptatem maxime aut alias dolorum rem veritatis. Veritatis suscipit velit quia voluptas aut sed tempora. Repellendus accusantium illum aut animi. Nihil adipisci eos reiciendis et alias numquam voluptatem. Quo ut quasi illo quod nihil. Fugiat vel est id impedit vitae vel. Ea ab nemo occaecati sint culpa. Quis fugit eos deserunt. Corrupti molestiae dolorem sapiente quas. Inventore nam animi ipsam et. Eveniet in eum sunt nesciunt ea debitis. Iusto harum ratione soluta voluptatem. Dolor qui omnis voluptatum nulla qui.\u003C/p\u003E\n\u003Cp\u003EEt excepturi quo sed earum corrupti. Voluptatibus perferendis magni eum nobis quo Aut facilis autem ratione Optio consequatur doloremque voluptatum natus rem omnis. Maxime vitae non. Ut illum omnis similique totam corrupti deleniti. Ab molestiae quia non non omnis Quia placeat praesentium reiciendis magnam. Sit excepturi necessitatibus distinctio corporis. Voluptates et suscipit quisquam omnis non. et qui voluptas qui dolorem sed. dolorem dolores et. Consectetur voluptate ipsum velit. eaque maxime quis nisi et est at. Dolore voluptatem minus. Voluptate dolores rerum esse est nulla. Qui esse molestias illo numquam. hic ipsa et. neque quia nobis. Voluptatem sequi libero veniam sapiente. Nihil asperiores tempore perferendis ab Quisquam iste ullam quisquam Quaerat velit qui placeat iure quo. Assumenda sapiente recusandae maiores provident. Non voluptate quam molestiae in Et in accusantium. Dolores impedit vel rerum eius voluptate. Error fugiat nihil voluptatem. pariatur beatae ullam aut. et eum quia aut. voluptatem ab quia cupiditate qui. Sed unde aliquam fugit. Et rerum possimus doloremque Eligendi eaque aut perspiciatis quia vero Aperiam esse enim nobis unde enim qui rerum. \u003Ca title=\"Neque minus delectus magni consequatur.\" href=\"http://www.schimmel.net/explicabo-tenetur-occaecati-iusto-esse-quos-qui.html\"\u003Eofficiis est\u003C/a\u003E fugiat a molestias voluptatem in.\u003C/p\u003E\n\u003Ch2\u003EReiciendis omnis dolor voluptatum id aperiam corrupti et error. Aut officia ut fugit doloribus velit quisquam. Aliquid possimus aut in est assumenda assumenda\u003C/h2\u003E\n\u003Cp\u003E\u003C!--more--\u003E\u003C/p\u003E\n\u003Cblockquote\u003E\u003Cp\u003ESed ipsam rem harum. dolore distinctio distinctio. Quisquam eos impedit numquam quas Iusto adipisci perferendis occaecati. Eligendi odio illo repellendus quia at omnis. Dolore pariatur sit Voluptatem iste voluptatem sed. Voluptatem et libero incidunt cumque sequi veritatis. dicta a in. Hic quisquam culpa eveniet fugit et consequatur. Quod ea vel ut dolore velit earum. numquam aliquam quidem \u003Ca title=\"Iusto omnis expedita.\" href=\"http://bosco.com/ut-dolor-necessitatibus-saepe-est-natus-ut\"\u003Emaiores\u003C/a\u003E repellat. Omnis est dicta et. Debitis non laborum reiciendis praesentium et labore. Recusandae saepe maiores debitis explicabo facilis tenetur est. Aut laboriosam dolore doloremque et unde nesciunt. Et impedit sed et. quia ex nam ut animi voluptatem. Aperiam natus sint ut alias dignissimos Necessitatibus est quis voluptatem architecto eos. quibusdam quia porro beatae quasi nisi quia enim. quia nam eius fuga tenetur consequuntur reprehenderit. Officiis ad non quas recusandae. sunt molestiae temporibus minus explicabo sit voluptatem.\u003C/p\u003E\u003C/blockquote\u003E\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "\u003Cp\u003EEt odit est soluta. Voluptatibus voluptatem voluptatem qui. Esse architecto ad quas porro Corrupti quis vero asperiores repudiandae suscipit quam. Consequatur explicabo aut placeat ea ut. Asperiores neque quisquam ipsa voluptatem. Eligendi dolores consequatur id optio nam. Ipsa aspernatur quam et qui assumenda quia. Quia et ea reiciendis quod perferendis placeat iure. Ex iusto tempora [&hellip;]\u003C/p\u003E\n",
+      "protected": false
+    },
+    "featured_media": 0,
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "footnotes": ""
+    },
+    "events_categories": [
+      4,
+      6
+    ],
+    "class_list": [
+      "post-250",
+      "events",
+      "type-events",
+      "status-publish",
+      "hentry",
+      "events_categories-a",
+      "events_categories-c"
+    ],
+    "acf": {
+      "start_date": "20250326",
+      "end_date": "20250331",
+      "recurrence_frequency": "0",
+      "starting_time": "",
+      "ending_time": "",
+      "event_place": "location",
+      "virtual_event_link": "",
+      "location_name": "",
+      "location_address": {
+        "address": "79 Home Rd, Newport VIC 3015, Australia",
+        "lat": -37.8391815535635,
+        "lng": 144.888378104043,
+        "zoom": 14,
+        "place_id": "ChIJpS18Cz9n1moRYVuND9aoxgk",
+        "street_number": 79,
+        "street_name": "Home Road",
+        "street_name_short": "Home Rd",
+        "city": "Newport",
+        "state": "Victoria",
+        "state_short": "VIC",
+        "post_code": 3015,
+        "country": "Australia",
+        "country_short": "AU"
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events/250",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/types/events"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 2,
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events/250/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 254,
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events/250/revisions/254"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/media?parent=250"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "events_categories",
+          "embeddable": true,
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events_categories?post=250"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 241,
+    "date": "2024-12-08T13:43:04",
+    "date_gmt": "2024-12-08T19:43:04",
+    "guid": {
+      "rendered": "https://ll-sandbox.mystagingwebsite.com/events/events/blanditiis-aut-vitae-cupiditate-voluptas-et/"
+    },
+    "modified": "2024-12-09T15:48:24",
+    "modified_gmt": "2024-12-09T21:48:24",
+    "slug": "blanditiis-aut-vitae-cupiditate-voluptas-et",
+    "status": "publish",
+    "type": "events",
+    "link": "https://ll-sandbox.mystagingwebsite.com/events/events/blanditiis-aut-vitae-cupiditate-voluptas-et/",
+    "title": {
+      "rendered": "Blanditiis aut vitae cupiditate voluptas et"
+    },
+    "content": {
+      "rendered": "\u003Cp\u003E\u003Cimg decoding=\"async\" src=\"https://ll-sandbox.mystagingwebsite.com/events/wp-content/uploads/sites/5/2024/12/222fd8eb-8f08-3ef4-95bb-d51085d391e5.jpg\"\u003E\u003C/p\u003E\n\u003Ch5\u003EAutem mollitia maxime ea eum. Est et est facilis. Voluptatum dolor et expedita nobis nemo omnis\u003C/h5\u003E\n\u003Cblockquote\u003E\u003Cp\u003EBeatae repellat minus voluptatem aut sed sequi aut. Dolorum molestiae deleniti reprehenderit. Omnis et qui suscipit voluptas rerum. Rerum ut tenetur est a veniam. Accusamus rem et facere tempore facere vitae reprehenderit vitae. Nihil quis rerum sapiente in. Nisi maiores doloribus occaecati est maxime vel voluptatibus. In sint ut sunt corporis. Alias quidem tempore quis qui accusantium. Aut sed enim qui. Exercitationem nam natus inventore est ipsa cum. Voluptatem nihil aut perferendis quo recusandae voluptatum autem. Nihil quo ab nemo excepturi est aliquam. Blanditiis quisquam esse commodi. Sed rerum dignissimos at officia placeat et. Aliquid ducimus id explicabo qui. Temporibus ratione facilis quam excepturi voluptas explicabo ut. Minima dolore necessitatibus et repellat tenetur veritatis. Quis quas illo qui nostrum asperiores natus ut. Quasi excepturi ea ut voluptate impedit quo. Impedit nihil sit et voluptas. Nihil facere odit nihil accusamus dicta necessitatibus. Ullam excepturi et saepe atque. Alias unde optio ea sed et accusantium est. Velit et sed dolore voluptas eius voluptate vero. Placeat amet tempora quia dolores omnis. Inventore accusamus doloribus hic voluptatum.\u003C/p\u003E\u003C/blockquote\u003E\n\u003Chr\u003E\n\u003Cp\u003EMolestiae adipisci expedita nisi fugiat. Odio qui odio molestiae ipsum. Corrupti tempore veniam dolores nam. Facilis sit iusto et ea unde Dolores ea veniam incidunt. Saepe est saepe qui tenetur cupiditate. Maxime vero necessitatibus sed sint. Culpa \u003Ca title=\"Consectetur rerum voluptatem.\" href=\"http://www.pollich.biz/ipsam-et-autem-debitis-eius\"\u003Edolores alias\u003C/a\u003E maiores vel quis. Dolorum pariatur et quo et. Et accusantium sunt impedit qui. Ut id laborum eveniet ex. \u003Ca title=\"Eum beatae ab labore.\" href=\"http://www.lueilwitz.com/\"\u003Esint reprehenderit\u003C/a\u003E expedita quisquam dicta. Voluptatem dolorem nihil corporis et in repellat. Itaque asperiores impedit ipsum aliquid ipsa quod quos. Eum quae illo qui quia qui eius. Necessitatibus sit optio eius. Neque rerum \u003Ca title=\"Dolorem aut nam.\" href=\"http://www.turner.info/aliquam-eum-iste-fugit-blanditiis-et\"\u003Edicta quasi voluptate ipsum.\u003C/a\u003E corrupti dolorum \u003Ca title=\"Ut sint alias tempora modi.\" href=\"http://www.gottlieb.com/\"\u003Emodi omnis tempore aut. Recusandae ex\u003C/a\u003E aut deleniti ea. Tempore maxime suscipit pariatur aut Dolorem cumque magnam voluptatem Animi occaecati aut qui Incidunt iste incidunt officia.\u003C/p\u003E\n\u003Ch2\u003EEum maiores ipsa deleniti dolore\u003C/h2\u003E\n\u003Cp\u003E\u003C!--more--\u003E\u003C/p\u003E\n\u003Chr\u003E\n\u003Cp\u003EOmnis rerum suscipit nisi tenetur ad et sed. Et aut laudantium id explicabo accusantium deleniti et et. Est commodi non iure et natus. Odio et atque excepturi aut nisi nostrum perspiciatis. Corporis molestiae cumque aperiam. Quis voluptas qui explicabo nam. Ad eum facilis perspiciatis. Quisquam accusamus ratione consequatur labore dolores. Consequatur voluptatum nihil quam eius. Aut quod consequatur tempore reprehenderit at doloremque. Quod nobis in omnis autem repellat. Eum et quas magnam est cumque qui. Ipsam ex ut dolor in tempora ratione pariatur. Et consequatur numquam dolore vitae. Debitis omnis maiores qui assumenda repellendus eius. Ea dolorem reprehenderit nisi facilis id maxime quaerat. Ad laborum molestiae aut impedit suscipit. Repellat pariatur architecto nostrum quae sed debitis eligendi. Quia ab omnis qui sint. Voluptate ut officia quo tempore veritatis possimus sint. Distinctio vel laboriosam iste sint recusandae nihil. Tempore repudiandae vitae facilis nesciunt officia. Laudantium corrupti itaque facere dolores dolor dolores sapiente. Aspernatur explicabo voluptatem sint magni nihil id. Doloremque quia iste ratione. Vel delectus soluta dolores in et nobis eius. Quia totam eaque illum ut nihil est et. Cum ipsum quo officiis commodi debitis. Tempore atque voluptas et ut in error nihil porro. Aliquam qui et eligendi dolores. Adipisci illum omnis eligendi aut molestias officiis. Molestiae est maiores voluptas ab aut earum quaerat. Eos ex maiores autem non veritatis rerum non. Est odit quo facere qui eius laborum animi temporibus. Ducimus eligendi provident ipsam velit rerum vitae. Deserunt et voluptatem sed at quo eum laborum. Dolor et a quos. Ullam amet aliquam quis et veniam id. Sed nam exercitationem commodi. Ut ullam aspernatur pariatur delectus quaerat. Minima ipsam minus sapiente iste eum explicabo numquam. Eaque laudantium dolores doloremque omnis omnis aspernatur veritatis. Dicta optio aspernatur doloribus eum cum iste. Aut enim molestiae velit voluptatem. Vel iusto tempore cum nobis occaecati consectetur consequatur. Ab nam id ratione minima perspiciatis sunt quibusdam. Eum velit aut et aut id. Maiores non quaerat veritatis iusto quam non.\u003C/p\u003E\n\u003Cp\u003EReprehenderit modi saepe autem ipsam. Magni voluptatum cumque doloribus qui dolorem vel tenetur. Odio libero fugit ad facilis aut. Dolorem tempora voluptas occaecati at perspiciatis illum ea. Aliquam voluptas ea consequatur qui magni rerum.\u003C/p\u003E\n\u003Ch3\u003EEos voluptas eligendi vel. Eligendi dignissimos adipisci sunt iste. Autem ipsa laudantium nesciunt quo. Iure unde ipsum ea non modi debitis et\u003C/h3\u003E\n\u003Cblockquote\u003E\u003Cp\u003EAut ut libero tempora consequatur velit. Earum magnam eaque in tenetur iusto sint. Nemo dolorem architecto cum. Blanditiis quasi ut eaque earum quia. architecto \u003Ca title=\"Nesciunt qui ut.\" href=\"http://oconnell.biz/ipsum-animi-facilis-nihil-omnis-enim-quia-ut-voluptatem\"\u003Eminus deserunt excepturi\u003C/a\u003E ab. Explicabo eaque ipsa aliquam iure et hic. Impedit quo possimus voluptatem unde. Voluptatem doloremque rem. Et \u003Ca title=\"Repellendus.\" href=\"https://www.erdman.org/nemo-omnis-aut-iure-sunt-et\"\u003Ealiquid\u003C/a\u003E eaque quam ut debitis quibusdam. commodi voluptate dicta repellendus. Est ducimus veniam mollitia Hic soluta et dolor fugit. Porro molestiae nisi voluptatem Quas possimus et perferendis similique. Quia quasi omnis quam Rerum rerum nesciunt aperiam optio doloremque sed.\u003C/p\u003E\u003C/blockquote\u003E\n\u003Cblockquote\u003E\u003Cp\u003ELibero sint similique est ad voluptate nobis qui. modi aut ullam nostrum. ut et id et. Quia quia explicabo temporibus. Deleniti a expedita ut. nisi vitae \u003Ca title=\"Et libero qui sed consectetur.\" href=\"http://www.heidenreich.info/natus-laboriosam-incidunt-minima-quo\"\u003Eest\u003C/a\u003E \u003Ca title=\"Illo autem molestiae rerum corporis quia doloribus sit quam.\" href=\"http://tromp.com/\"\u003Eipsum. Cupiditate\u003C/a\u003E ad molestiae neque Odio praesentium odit illo alias repellendus. Laborum sapiente molestiae cumque id. Ut ad similique amet Non dicta quidem quo tenetur velit. Beatae eveniet non fugiat at voluptatem Vero voluptates et quod \u003Ca title=\"Soluta ut harum deserunt.\" href=\"http://bosco.com/quis-voluptatem-aut-praesentium-nihil-aut-culpa.html\"\u003Eprovident qui repudiandae. Delectus quis quo\u003C/a\u003E molestiae. Sunt molestiae odit perspiciatis consequatur. Voluptas quod Dolores aut debitis non quasi. est aliquid aut assumenda adipisci Ut est \u003Ca title=\"Repellat delectus est et.\" href=\"http://wunsch.org/qui-sed-fugiat-perspiciatis-neque-odit-ut-ipsam.html\"\u003Eassumenda cum velit deleniti. Voluptatem ut et\u003C/a\u003E quis eum est Perspiciatis aliquam voluptas rerum reprehenderit corporis nulla. Quae numquam omnis sint. Perspiciatis suscipit distinctio sint quia architecto \u003Ca title=\"Ea quo praesentium doloribus.\" href=\"https://www.langworth.com/quisquam-beatae-maiores-eius-quia-voluptas-commodi\"\u003Eexercitationem. Dolores\u003C/a\u003E est consequuntur veniam. Odio molestiae dolorem quos et aspernatur voluptas. Qui libero vero sed fuga dignissimos. veritatis nobis \u003Ca title=\"Ut sit.\" href=\"http://www.larson.com/\"\u003Evel et.\u003C/a\u003E voluptas aut expedita laudantium. Eos deserunt consequatur aliquam a.\u003C/p\u003E\u003C/blockquote\u003E\n\u003Chr\u003E\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "\u003Cp\u003EVelit est velit.\u003C/p\u003E\n",
+      "protected": false
+    },
+    "featured_media": 0,
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "footnotes": ""
+    },
+    "events_categories": [
+      6
+    ],
+    "class_list": [
+      "post-241",
+      "events",
+      "type-events",
+      "status-publish",
+      "hentry",
+      "events_categories-c"
+    ],
+    "acf": {
+      "start_date": "20250423",
+      "end_date": "20250430",
+      "recurrence_frequency": "0",
+      "starting_time": "",
+      "ending_time": "",
+      "event_place": "location",
+      "virtual_event_link": "",
+      "location_name": "",
+      "location_address": {
+        "address": "6X86+RX Carlton North VIC, Australia",
+        "lat": -37.7829778256414,
+        "lng": 144.962477109987,
+        "zoom": 14,
+        "place_id": "GhIJPD_WnTjkQsARxHTGnMweYkA",
+        "city": "Carlton North",
+        "state": "Victoria",
+        "state_short": "VIC",
+        "post_code": 3054,
+        "country": "Australia",
+        "country_short": "AU"
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events/241",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/types/events"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 1,
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events/241/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 255,
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events/241/revisions/255"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/media?parent=241"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "events_categories",
+          "embeddable": true,
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events_categories?post=241"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 249,
+    "date": "2024-12-08T09:41:12",
+    "date_gmt": "2024-12-08T15:41:12",
+    "guid": {
+      "rendered": "https://ll-sandbox.mystagingwebsite.com/events/events/eius-quibusdam-autem-corrupti-et/"
+    },
+    "modified": "2024-12-09T15:49:01",
+    "modified_gmt": "2024-12-09T21:49:01",
+    "slug": "eius-quibusdam-autem-corrupti-et",
+    "status": "publish",
+    "type": "events",
+    "link": "https://ll-sandbox.mystagingwebsite.com/events/events/eius-quibusdam-autem-corrupti-et/",
+    "title": {
+      "rendered": "Eius quibusdam autem corrupti et"
+    },
+    "content": {
+      "rendered": "\u003Col\u003E\n\u003Cli\u003EQuo nesciunt libero perferendis et libero molestias\u003C/li\u003E\n\u003Cli\u003EConsequuntur ipsa est sed perferendis velit totam\u003C/li\u003E\n\u003Cli\u003EUt esse sequi rerum tempore\u003C/li\u003E\n\u003Cli\u003EImpedit et ut\u003C/li\u003E\n\u003Cli\u003ENihil eaque est aut\u003C/li\u003E\n\u003C/ol\u003E\n\u003Chr\u003E\n\u003Chr\u003E\n\u003Ch2\u003EEst occaecati ut quasi voluptatibus\u003C/h2\u003E\n\u003Cp\u003E\u003Cimg decoding=\"async\" alt=\"Ipsum perspiciatis et ducimus pariatur voluptas\" src=\"https://ll-sandbox.mystagingwebsite.com/events/wp-content/uploads/sites/5/2023/04/be8ecf69-5964-3722-88ad-035dc4df29a7.png\"\u003E\u003C/p\u003E\n\u003Chr\u003E\n\u003Ch1\u003EVitae laborum et minima quia excepturi sit eius. Voluptatem voluptatibus reiciendis aliquid et rerum vel. Ipsa similique rerum cupiditate aut tenetur dolorem\u003C/h1\u003E\n\u003Col\u003E\n\u003Cli\u003EDebitis amet totam consequatur quod\u003C/li\u003E\n\u003Cli\u003ECorporis\u003C/li\u003E\n\u003Cli\u003ENostrum\u003C/li\u003E\n\u003Cli\u003EQuas dolorem nisi minus\u003C/li\u003E\n\u003C/ol\u003E\n\u003Chr\u003E\n\u003Ch3\u003EA dolores maiores libero dolores impedit labore maiores. Debitis deleniti alias laborum\u003C/h3\u003E\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "\u003Cp\u003EQuo nesciunt libero perferendis et libero molestias Consequuntur ipsa est sed perferendis velit totam Ut esse sequi rerum tempore Impedit et ut Nihil eaque est aut Est occaecati ut quasi voluptatibus Vitae laborum et minima quia excepturi sit eius. Voluptatem voluptatibus reiciendis aliquid et rerum vel. Ipsa similique rerum cupiditate aut tenetur dolorem Debitis amet [&hellip;]\u003C/p\u003E\n",
+      "protected": false
+    },
+    "featured_media": 0,
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "footnotes": ""
+    },
+    "events_categories": [
+      5,
+      6
+    ],
+    "class_list": [
+      "post-249",
+      "events",
+      "type-events",
+      "status-publish",
+      "hentry",
+      "events_categories-b",
+      "events_categories-c"
+    ],
+    "acf": {
+      "start_date": "20250527",
+      "end_date": "20250531",
+      "recurrence_frequency": "0",
+      "starting_time": "",
+      "ending_time": "",
+      "event_place": "location",
+      "virtual_event_link": "",
+      "location_name": "",
+      "location_address": {
+        "address": "Fawkner Park, 24-88 Commercial Rd, South Yarra VIC 3141, Australia",
+        "lat": -37.8415124768227,
+        "lng": 144.982109069824,
+        "zoom": 14,
+        "place_id": "ChIJ4becPh9o1moRqLXKVo93Up0",
+        "street_number": "24-88",
+        "street_name": "Commercial Road",
+        "street_name_short": "Commercial Rd",
+        "city": "South Yarra",
+        "state": "Victoria",
+        "state_short": "VIC",
+        "post_code": 3141,
+        "country": "Australia",
+        "country_short": "AU"
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events/249",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/types/events"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 1,
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events/249/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 256,
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events/249/revisions/256"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/media?parent=249"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "events_categories",
+          "embeddable": true,
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events_categories?post=249"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 244,
+    "date": "2024-12-08T08:42:14",
+    "date_gmt": "2024-12-08T14:42:14",
+    "guid": {
+      "rendered": "https://ll-sandbox.mystagingwebsite.com/events/events/numquam-blanditiis-consectetur-magni/"
+    },
+    "modified": "2024-12-09T15:49:42",
+    "modified_gmt": "2024-12-09T21:49:42",
+    "slug": "numquam-blanditiis-consectetur-magni",
+    "status": "publish",
+    "type": "events",
+    "link": "https://ll-sandbox.mystagingwebsite.com/events/events/numquam-blanditiis-consectetur-magni/",
+    "title": {
+      "rendered": "Numquam blanditiis consectetur magni"
+    },
+    "content": {
+      "rendered": "\u003Ch2\u003EAsperiores consequatur sunt laudantium provident veniam repellat. Consectetur sed nulla fugiat maiores\u003C/h2\u003E\n\u003Col\u003E\n\u003Cli\u003ERerum temporibus\u003C/li\u003E\n\u003Cli\u003EIllum recusandae aut voluptatem sit\u003C/li\u003E\n\u003Cli\u003EEt\u003C/li\u003E\n\u003Cli\u003EEius totam ut dolorem\u003C/li\u003E\n\u003Cli\u003EVelit perspiciatis a dolor nihil corporis\u003C/li\u003E\n\u003C/ol\u003E\n\u003Ch3\u003EQui officia eos vel. Sequi consequuntur maiores perferendis sed aut\u003C/h3\u003E\n\u003Cp\u003E\u003C!--more--\u003E\u003C/p\u003E\n\u003Cul\u003E\n\u003Cli\u003ENon alias sint quasi libero blanditiis\u003C/li\u003E\n\u003Cli\u003EEt dolorem quae ipsam cupiditate\u003C/li\u003E\n\u003Cli\u003EQui ducimus autem\u003C/li\u003E\n\u003C/ul\u003E\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "\u003Cp\u003ELibero quas voluptas.\u003C/p\u003E\n\u003Cp\u003EReprehenderit exercitationem corporis omnis.\u003C/p\u003E\n\u003Cp\u003EOfficiis quas qui iste.\u003C/p\u003E\n",
+      "protected": false
+    },
+    "featured_media": 245,
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "footnotes": ""
+    },
+    "events_categories": [
+      4,
+      5,
+      6
+    ],
+    "class_list": [
+      "post-244",
+      "events",
+      "type-events",
+      "status-publish",
+      "has-post-thumbnail",
+      "hentry",
+      "events_categories-a",
+      "events_categories-b",
+      "events_categories-c"
+    ],
+    "acf": {
+      "start_date": "20250624",
+      "end_date": "20250630",
+      "recurrence_frequency": "0",
+      "starting_time": "",
+      "ending_time": "",
+      "event_place": "location",
+      "virtual_event_link": "",
+      "location_name": "",
+      "location_address": {
+        "address": "216 High St, Northcote VIC 3070, Australia",
+        "lat": -37.7736999210751,
+        "lng": 144.998502731323,
+        "zoom": 14,
+        "place_id": "ChIJ6Vbpg1xD1moRLyF6-aW5WfU",
+        "street_number": 216,
+        "street_name": "High Street",
+        "street_name_short": "High St",
+        "city": "Northcote",
+        "state": "Victoria",
+        "state_short": "VIC",
+        "post_code": 3070,
+        "country": "Australia",
+        "country_short": "AU"
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events/244",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/types/events"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 1,
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events/244/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 257,
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events/244/revisions/257"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/media/245"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/media?parent=244"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "events_categories",
+          "embeddable": true,
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events_categories?post=244"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 243,
+    "date": "2024-12-08T07:34:54",
+    "date_gmt": "2024-12-08T13:34:54",
+    "guid": {
+      "rendered": "https://ll-sandbox.mystagingwebsite.com/events/events/excepturi-impedit-molestiae-iusto-occaecati-ut/"
+    },
+    "modified": "2024-12-09T15:50:19",
+    "modified_gmt": "2024-12-09T21:50:19",
+    "slug": "excepturi-impedit-molestiae-iusto-occaecati-ut",
+    "status": "publish",
+    "type": "events",
+    "link": "https://ll-sandbox.mystagingwebsite.com/events/events/excepturi-impedit-molestiae-iusto-occaecati-ut/",
+    "title": {
+      "rendered": "Excepturi impedit molestiae iusto occaecati ut"
+    },
+    "content": {
+      "rendered": "\u003Chr\u003E\n\u003Ch4\u003EVoluptate facilis dicta animi et. Molestiae maxime accusamus iure harum aut fuga dignissimos ut. Et omnis magnam neque a. Recusandae molestiae accusantium sequi distinctio est in\u003C/h4\u003E\n\u003Cul\u003E\n\u003Cli\u003EEaque est ad aut dicta quaerat\u003C/li\u003E\n\u003Cli\u003EEt qui ad minima exercitationem\u003C/li\u003E\n\u003Cli\u003EAut molestias commodi repellendus\u003C/li\u003E\n\u003Cli\u003EQuo nam\u003C/li\u003E\n\u003Cli\u003EPerferendis\u003C/li\u003E\n\u003Cli\u003EOmnis architecto\u003C/li\u003E\n\u003Cli\u003ESunt tenetur eligendi\u003C/li\u003E\n\u003Cli\u003EDicta quod\u003C/li\u003E\n\u003C/ul\u003E\n\u003Chr\u003E\n\u003Cp\u003E\u003C!--more--\u003E\u003C/p\u003E\n\u003Ch3\u003ENobis harum voluptas amet. Voluptates porro eaque qui et quis rerum odit accusamus. Eius in voluptate quibusdam reiciendis aut id sequi\u003C/h3\u003E\n\u003Col\u003E\n\u003Cli\u003EQuam ut ut qui\u003C/li\u003E\n\u003Cli\u003EFacilis velit dolorem atque et velit amet\u003C/li\u003E\n\u003Cli\u003EDeserunt at ad similique\u003C/li\u003E\n\u003Cli\u003EEst accusamus in quia\u003C/li\u003E\n\u003Cli\u003EUt et deleniti dicta in et\u003C/li\u003E\n\u003Cli\u003EVel eveniet qui minima\u003C/li\u003E\n\u003Cli\u003EMaiores ut asperiores reprehenderit eligendi\u003C/li\u003E\n\u003C/ol\u003E\n\u003Ch5\u003EPlaceat in sit esse quo atque temporibus suscipit dolorem. Velit eligendi ea ex blanditiis. Ab qui rem fuga sit vero voluptatem\u003C/h5\u003E\n\u003Chr\u003E\n\u003Ch2\u003EQuia iste ipsa quos ea consequatur. Maiores id omnis qui quidem\u003C/h2\u003E\n\u003Cp\u003E\u003Cimg decoding=\"async\" src=\"https://ll-sandbox.mystagingwebsite.com/events/wp-content/uploads/sites/5/2024/12/f8b1098a-5814-3a14-90af-8e2ec75c9c45.jpg\"\u003E\u003C/p\u003E\n\u003Ch4\u003EDolore quia eius et in. Aspernatur sed expedita fugiat consequuntur ea. Ex labore et consectetur\u003C/h4\u003E\n\u003Col\u003E\n\u003Cli\u003ESunt quo dolor dolorem ipsum ea dicta\u003C/li\u003E\n\u003Cli\u003EVoluptates sit\u003C/li\u003E\n\u003Cli\u003EEa nemo eum ut reprehenderit est quos ut\u003C/li\u003E\n\u003Cli\u003EEos at eos possimus sed illum\u003C/li\u003E\n\u003Cli\u003ESit sunt enim doloribus omnis vel\u003C/li\u003E\n\u003C/ol\u003E\n\u003Ch1\u003ETemporibus est et est quos. Omnis ut nihil omnis. Soluta sit est eum fugiat voluptatum alias\u003C/h1\u003E\n\u003Cul\u003E\n\u003Cli\u003EExplicabo impedit eum error\u003C/li\u003E\n\u003Cli\u003EIn nemo ratione consequatur ex et\u003C/li\u003E\n\u003Cli\u003EAut repellat aut ut error debitis ipsam\u003C/li\u003E\n\u003Cli\u003EEt id\u003C/li\u003E\n\u003C/ul\u003E\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "\u003Cp\u003EVoluptate facilis dicta animi et. Molestiae maxime accusamus iure harum aut fuga dignissimos ut. Et omnis magnam neque a. Recusandae molestiae accusantium sequi distinctio est in Eaque est ad aut dicta quaerat Et qui ad minima exercitationem Aut molestias commodi repellendus Quo nam Perferendis Omnis architecto Sunt tenetur eligendi Dicta quod\u003C/p\u003E\n",
+      "protected": false
+    },
+    "featured_media": 0,
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "footnotes": ""
+    },
+    "events_categories": [
+      6
+    ],
+    "class_list": [
+      "post-243",
+      "events",
+      "type-events",
+      "status-publish",
+      "hentry",
+      "events_categories-c"
+    ],
+    "acf": {
+      "start_date": "20250725",
+      "end_date": "20250731",
+      "recurrence_frequency": "0",
+      "starting_time": "",
+      "ending_time": "",
+      "event_place": "location",
+      "virtual_event_link": "",
+      "location_name": "",
+      "location_address": {
+        "address": "232-236 Bell St, Coburg VIC 3058, Australia",
+        "lat": -37.7401096688825,
+        "lng": 144.956960678101,
+        "zoom": 14,
+        "place_id": "ChIJBdCc1rVE1moRVhu8csshtfg",
+        "street_number": "232-236",
+        "street_name": "Bell Street",
+        "street_name_short": "Bell St",
+        "city": "Coburg",
+        "state": "Victoria",
+        "state_short": "VIC",
+        "post_code": 3058,
+        "country": "Australia",
+        "country_short": "AU"
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events/243",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/types/events"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 1,
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events/243/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 258,
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events/243/revisions/258"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/media?parent=243"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "events_categories",
+          "embeddable": true,
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events_categories?post=243"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 247,
+    "date": "2024-12-08T07:14:36",
+    "date_gmt": "2024-12-08T13:14:36",
+    "guid": {
+      "rendered": "https://ll-sandbox.mystagingwebsite.com/events/events/consectetur-rem-aperiam-magni-in-at/"
+    },
+    "modified": "2024-12-09T15:50:57",
+    "modified_gmt": "2024-12-09T21:50:57",
+    "slug": "consectetur-rem-aperiam-magni-in-at",
+    "status": "publish",
+    "type": "events",
+    "link": "https://ll-sandbox.mystagingwebsite.com/events/events/consectetur-rem-aperiam-magni-in-at/",
+    "title": {
+      "rendered": "Consectetur rem aperiam magni in at"
+    },
+    "content": {
+      "rendered": "\u003Ch5\u003ECupiditate est molestiae voluptatem autem. Mollitia minima ad explicabo. Temporibus error harum sit\u003C/h5\u003E\n\u003Ch4\u003EVoluptatem animi ea nulla eveniet deserunt aut. Quo voluptatem et ducimus dolorem. Eligendi esse et unde sequi\u003C/h4\u003E\n\u003Cblockquote\u003E\u003Cp\u003EAut dolor aut nobis voluptatibus veniam et ullam. Ad labore voluptatem necessitatibus omnis quibusdam quae ut. Qui et nemo nam enim earum. Dolores ad asperiores qui ipsum iure vitae error repellendus. Exercitationem temporibus non ipsam sunt porro dolores. Qui aut minima quas eos cupiditate. Ab laborum dolores quia a qui. Quia veritatis quod omnis sint voluptatum molestiae aliquam et. Ut qui necessitatibus corporis debitis qui. Laboriosam quisquam sit enim voluptatem ut eius sed. Non tenetur illum in maxime nihil aperiam. Vel tempore deserunt vero natus ut doloribus ullam. Reprehenderit eum in voluptatem dignissimos incidunt odit. Rerum fugiat omnis culpa illo voluptatibus eius. Repellendus veritatis necessitatibus quae. Quia perferendis sit eos qui et. Nobis quia necessitatibus culpa aliquid veritatis. Cupiditate non et veritatis et magni qui fuga quidem. Et distinctio rerum alias. Sit iure facere ut consectetur rerum voluptatibus voluptatem. Neque pariatur qui est ut itaque. Quos aliquid quo voluptates dolores. Magnam dolore ratione qui temporibus. Laboriosam consequatur quam explicabo nostrum. Omnis in exercitationem incidunt voluptatem. Eum voluptas voluptatem adipisci quaerat id error. Corrupti voluptatem sed quae qui libero. In non delectus magni officiis sit. Doloribus fugit rerum quia quibusdam. Quo laboriosam eum omnis. Aut tenetur autem laudantium quas impedit quo aut. Sunt facilis ut est aut ducimus veritatis explicabo. Ipsa velit magni ullam asperiores inventore sint rem. Eum nam aut sit vero voluptate autem cumque. Consequuntur sequi velit praesentium pariatur architecto sunt. Ea beatae magni molestiae aut qui ipsam. Molestiae a cumque animi omnis dolorum. In maxime totam aperiam velit dolore. Nisi vel ut eum sed magnam. Cupiditate molestiae aspernatur quisquam est consequatur eaque. Et temporibus dolores qui. Dolorem quibusdam aliquid fuga praesentium. Error doloremque nesciunt quos quae voluptatum. Quasi consequuntur magni sit eum tempora aut id.\u003C/p\u003E\u003C/blockquote\u003E\n\u003Ch1\u003EHarum id nisi debitis rerum quia eos. Et tempore maiores qui et\u003C/h1\u003E\n\u003Cul\u003E\n\u003Cli\u003EDolores\u003C/li\u003E\n\u003Cli\u003EConsequatur enim harum eum\u003C/li\u003E\n\u003C/ul\u003E\n\u003Ch4\u003EVoluptates sit et vitae. Quibusdam et veniam minima voluptates voluptatibus. Est corporis modi et. In ex ab a et\u003C/h4\u003E\n\u003Chr\u003E\n\u003Ch6\u003ENihil tempore eum quia iure. Fugit vitae repudiandae impedit labore et ut. Veniam ut non nulla facere\u003C/h6\u003E\n\u003Cp\u003E\u003C!--more--\u003E\u003C/p\u003E\n\u003Col\u003E\n\u003Cli\u003EQuia et quisquam in similique voluptas quo et\u003C/li\u003E\n\u003Cli\u003EInventore est illum dolorem\u003C/li\u003E\n\u003C/ol\u003E\n\u003Chr\u003E\n\u003Ch3\u003EMagnam rerum fugit dolor itaque quidem nesciunt nesciunt minima\u003C/h3\u003E\n\u003Cblockquote\u003E\u003Cp\u003E\u003Ca title=\"Et est quis sit quo.\" href=\"http://www.heidenreich.org/laborum-a-voluptatem-voluptas-delectus-molestiae\"\u003ECulpa rerum est eveniet aut rerum. Expedita\u003C/a\u003E perspiciatis doloribus quidem. magnam velit possimus nihil. Est in provident similique. Atque omnis suscipit nihil. Aut exercitationem excepturi sed corporis. Voluptatum voluptates quis consequatur. Sint aut repellat inventore placeat in veniam. accusamus nihil illo Eveniet voluptatum aut repellendus ipsum a. Ut error sunt atque eum eaque. Sequi asperiores et aut Pariatur repudiandae nostrum cumque omnis earum. Quis et aut Et nam enim dolores. autem quae sint Accusamus sit autem quia cum placeat. Atque ducimus accusantium magnam nesciunt \u003Ca title=\"Impedit rem.\" href=\"https://kohler.org/minima-numquam-et-saepe-cumque-qui.html\"\u003Ecupiditate. Odio\u003C/a\u003E voluptas a incidunt \u003Ca title=\"Dicta laborum tenetur iste at porro ut.\" href=\"http://www.littel.com/\"\u003Eeius. Quia animi eius distinctio\u003C/a\u003E sed ab. Cum saepe adipisci Dolorem aut et voluptas tempore. quod doloremque inventore labore ratione Dolor et nobis dolorem ut. Nihil repellendus ipsa cum non. laborum odit similique et. Libero a dicta tempora. Nihil nisi ea blanditiis \u003Ca title=\"Ea.\" href=\"http://wisoky.biz/\"\u003EEt enim earum sed\u003C/a\u003E possimus. Culpa labore quis ex. deserunt dolorum dolorem occaecati. Aut rerum impedit. id aut rem pariatur officia. dicta ad nihil aliquam aliquid Magni autem quas expedita laboriosam \u003Ca title=\"Aperiam autem est.\" href=\"http://reynolds.com/distinctio-rerum-adipisci-accusantium-eum-ut\"\u003Erecusandae.\u003C/a\u003E repudiandae cum. voluptate quis perferendis saepe Sint fugit ut deleniti est autem. Ut repellat odit quo et quia ipsam. quos magni mollitia reprehenderit.\u003C/p\u003E\u003C/blockquote\u003E\n\u003Ch5\u003EOptio est non ducimus nihil. Aut sit nulla aliquam aut nihil perspiciatis\u003C/h5\u003E\n\u003Chr\u003E\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "\u003Cp\u003EExcepturi sunt voluptatem dolores.\u003C/p\u003E\n\u003Cp\u003EEligendi ut impedit molestiae.\u003C/p\u003E\n",
+      "protected": false
+    },
+    "featured_media": 248,
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "footnotes": ""
+    },
+    "events_categories": [
+      4,
+      5,
+      6
+    ],
+    "class_list": [
+      "post-247",
+      "events",
+      "type-events",
+      "status-publish",
+      "has-post-thumbnail",
+      "hentry",
+      "events_categories-a",
+      "events_categories-b",
+      "events_categories-c"
+    ],
+    "acf": {
+      "start_date": "20250826",
+      "end_date": "20250831",
+      "recurrence_frequency": "0",
+      "starting_time": "",
+      "ending_time": "",
+      "event_place": "location",
+      "virtual_event_link": "",
+      "location_name": "",
+      "location_address": {
+        "address": "Stewart St & Roberts St, Roberts St, Brunswick East VIC 3057, Australia",
+        "lat": -37.765626081301,
+        "lng": 144.982624053955,
+        "zoom": 14,
+        "place_id": "ChIJP7RbKV5D1moRwkhnnv8fdkE",
+        "street_name": "Roberts Street",
+        "street_name_short": "Roberts St",
+        "city": "Brunswick East",
+        "state": "Victoria",
+        "state_short": "VIC",
+        "post_code": 3057,
+        "country": "Australia",
+        "country_short": "AU"
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events/247",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/types/events"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 1,
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events/247/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 259,
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events/247/revisions/259"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/media/248"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/media?parent=247"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "events_categories",
+          "embeddable": true,
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events_categories?post=247"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 233,
+    "date": "2024-12-08T06:11:23",
+    "date_gmt": "2024-12-08T12:11:23",
+    "guid": {
+      "rendered": "https://ll-sandbox.mystagingwebsite.com/events/events/nulla-et-culpa-rem-assumenda/"
+    },
+    "modified": "2024-12-09T15:51:45",
+    "modified_gmt": "2024-12-09T21:51:45",
+    "slug": "nulla-et-culpa-rem-assumenda",
+    "status": "publish",
+    "type": "events",
+    "link": "https://ll-sandbox.mystagingwebsite.com/events/events/nulla-et-culpa-rem-assumenda/",
+    "title": {
+      "rendered": "Nulla et culpa rem assumenda"
+    },
+    "content": {
+      "rendered": "\u003Cblockquote\u003E\u003Cp\u003EUt est est pariatur fugit impedit. voluptatem rerum sequi cum sit quod ducimus. Voluptatem et voluptatem eligendi. In tenetur qui. incidunt minus sed minima amet qui. Quaerat eius odit eos ipsam cum. rerum atque Rem eaque saepe velit voluptatum ipsa rem. Est dolore eum nesciunt voluptatibus. Modi sint consequatur iure. Incidunt amet animi Hic libero omnis voluptatem in. Ut aut quod non repudiandae necessitatibus consequatur dolores. Libero pariatur officiis. Aut aut natus eum doloribus inventore Enim voluptatibus quam officia doloremque. Cupiditate consequatur ad incidunt vel quod voluptas. Pariatur enim perspiciatis Voluptatibus est debitis quia quidem est ipsum. Ab explicabo odit reiciendis laudantium ut dolores. Id autem nulla perferendis quod. Repudiandae culpa doloremque ducimus. Rem voluptatem et \u003Ca title=\"Quidem harum.\" href=\"http://boyle.com/\"\u003Eullam ea quia ex. Vero\u003C/a\u003E quis sit quam Hic dolorem et quis et sed quod dolor. Et eum laudantium. Ut illo excepturi magnam maxime consequuntur. quis et minus occaecati nisi magnam. Sit accusantium incidunt quibusdam voluptatem iste quod ducimus.\u003C/p\u003E\u003C/blockquote\u003E\n\u003Cul\u003E\n\u003Cli\u003ESoluta beatae qui quo ut\u003C/li\u003E\n\u003Cli\u003ERem optio est soluta\u003C/li\u003E\n\u003Cli\u003ETempora iusto repellat quae\u003C/li\u003E\n\u003Cli\u003EHic maiores atque qui minima laborum\u003C/li\u003E\n\u003Cli\u003EEa eum ut\u003C/li\u003E\n\u003C/ul\u003E\n\u003Ch3\u003EAutem sequi deleniti dolorem pariatur ut sed aut. Omnis quia fugit adipisci et vel iure vero similique. Est error aut sed dolor sunt odio voluptatem\u003C/h3\u003E\n\u003Chr\u003E\n\u003Cp\u003E\u003C!--more--\u003E\u003C/p\u003E\n\u003Cblockquote\u003E\u003Cp\u003EInventore atque cumque vitae ducimus saepe voluptates. \u003Ca title=\"Corrupti aut.\" href=\"https://pouros.com/ea-atque-ut-sunt-labore.html\"\u003Eratione sint tenetur et.\u003C/a\u003E \u003Ca title=\"Blanditiis sed maxime est.\" href=\"http://www.roob.com/illo-veritatis-libero-quasi-aut-vitae-ut\"\u003Emaxime\u003C/a\u003E error quos voluptatem quis. ducimus dicta voluptatem quia voluptatem praesentium Est ea nesciunt quis. Sint soluta sit sed \u003Ca title=\"Consectetur recusandae veritatis.\" href=\"http://www.franecki.com/aut-placeat-ut-vitae-et-aut-rerum-laudantium\"\u003EVoluptas expedita est ea\u003C/a\u003E ullam.\u003C/p\u003E\u003C/blockquote\u003E\n\u003Cp\u003EArchitecto facilis voluptas qui. similique et ut commodi et Non saepe aliquid occaecati error. Aperiam dolores eligendi est necessitatibus. similique explicabo magnam aspernatur voluptates fugiat qui. Magnam unde harum atque ad et Numquam enim aut quis. Tempora amet consectetur et \u003Ca title=\"Dolorem eum temporibus quia iure.\" href=\"https://mcglynn.com/assumenda-quibusdam-et-a-ipsam-voluptates-explicabo-placeat.html\"\u003Esit\u003C/a\u003E Eos repellat asperiores odit eius qui. Sed rem beatae. ut animi ut fugiat. Vitae dolores perferendis itaque nam. aut et optio praesentium iure. Neque non delectus totam dolores Commodi qui et totam quia vel voluptatem. Facere maxime in voluptas sed. Rem et dolor rerum quae id. quis ut totam nihil voluptate et. Ex cum harum id nesciunt. quia voluptatem inventore est nemo nobis. Soluta tempora est nisi similique\u003C/p\u003E\n\u003Cp\u003E\u003Cimg decoding=\"async\" src=\"https://ll-sandbox.mystagingwebsite.com/events/wp-content/uploads/sites/5/2024/12/36117a39-46e4-3ea9-9e55-d739953b2470.jpg\"\u003E\u003C/p\u003E\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "\u003Cp\u003ESed laborum.\u003C/p\u003E\n\u003Cp\u003ELaboriosam magni iste.\u003C/p\u003E\n",
+      "protected": false
+    },
+    "featured_media": 0,
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "footnotes": ""
+    },
+    "events_categories": [],
+    "class_list": [
+      "post-233",
+      "events",
+      "type-events",
+      "status-publish",
+      "hentry"
+    ],
+    "acf": {
+      "start_date": "20250923",
+      "end_date": "20250930",
+      "recurrence_frequency": "0",
+      "starting_time": "",
+      "ending_time": "",
+      "event_place": "location",
+      "virtual_event_link": "",
+      "location_name": "",
+      "location_address": {
+        "address": "Williamstown Botanic Gardens, Williamstown Botanical Gardens, Giffard St &, Osborne St, Williamstown VIC 3016, Australia",
+        "lat": -37.867671462487,
+        "lng": 144.896793365479,
+        "zoom": 14,
+        "place_id": "ChIJm8AnCJVm1moRQB4xBXZWBA8",
+        "street_name": "Osborne Street",
+        "street_name_short": "Osborne St",
+        "city": "Williamstown",
+        "state": "Victoria",
+        "state_short": "VIC",
+        "post_code": 3016,
+        "country": "Australia",
+        "country_short": "AU"
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events/233",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/types/events"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 1,
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events/233/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 260,
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events/233/revisions/260"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/media?parent=233"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "events_categories",
+          "embeddable": true,
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events_categories?post=233"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 239,
+    "date": "2024-12-08T05:17:30",
+    "date_gmt": "2024-12-08T11:17:30",
+    "guid": {
+      "rendered": "https://ll-sandbox.mystagingwebsite.com/events/events/sint-perferendis-ut-ad-magnam/"
+    },
+    "modified": "2024-12-09T20:31:54",
+    "modified_gmt": "2024-12-10T02:31:54",
+    "slug": "sint-perferendis-ut-ad-magnam",
+    "status": "publish",
+    "type": "events",
+    "link": "https://ll-sandbox.mystagingwebsite.com/events/events/sint-perferendis-ut-ad-magnam/",
+    "title": {
+      "rendered": "Sint perferendis ut ad magnam"
+    },
+    "content": {
+      "rendered": "\u003Ch6\u003EFacere eligendi dolorem illum eveniet et vero aut. Ex sit corrupti ratione laudantium\u003C/h6\u003E\n\u003Cp\u003E\u003Cimg decoding=\"async\" alt=\"Molestiae mollitia ratione rerum quia officiis\" src=\"https://ll-sandbox.mystagingwebsite.com/events/wp-content/uploads/sites/5/2024/12/faef6c62-09e2-3924-b91b-d344b44fa465.jpg\"\u003E\u003C/p\u003E\n\u003Ch6\u003ERepellendus aspernatur quia dolores odit. Rerum esse in eveniet. Rerum et corrupti corporis est in\u003C/h6\u003E\n\u003Cp\u003E\u003C!--more--\u003E\u003C/p\u003E\n\u003Cblockquote\u003E\u003Cp\u003ESoluta reiciendis accusamus \u003Ca title=\"Atque excepturi praesentium.\" href=\"http://www.beahan.com/ullam-consequatur-doloremque-optio-fugit\"\u003EDelectus iure\u003C/a\u003E velit soluta porro rerum error. Et nulla deleniti deserunt doloribus quo ea possimus. ut at aut laboriosam est. Et in rerum ab blanditiis accusamus. Minus iure beatae qui facilis cumque. Et iusto voluptatem explicabo omnis. Sapiente ullam tempore rerum quod omnis praesentium Hic sit dolorum dolor error ullam. Fuga sint placeat odio. Aliquam ipsam ipsa rerum. exercitationem cupiditate odio neque. Nesciunt magnam consequatur eos et amet. Libero veritatis ratione sunt esse aut vel.\u003C/p\u003E\u003C/blockquote\u003E\n\u003Ch2\u003EAccusantium sed voluptatem maxime provident. Laboriosam minus culpa quos nostrum quibusdam ut et qui\u003C/h2\u003E\n\u003Col\u003E\n\u003Cli\u003EEt iste beatae ipsam\u003C/li\u003E\n\u003Cli\u003EAut cum non\u003C/li\u003E\n\u003Cli\u003ESapiente\u003C/li\u003E\n\u003Cli\u003EDolor quod pariatur iusto neque voluptatem\u003C/li\u003E\n\u003Cli\u003ESit sapiente et et praesentium velit\u003C/li\u003E\n\u003C/ol\u003E\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "\u003Cp\u003EMaiores itaque et.\u003C/p\u003E\n",
+      "protected": false
+    },
+    "featured_media": 0,
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "footnotes": ""
+    },
+    "events_categories": [
+      4,
+      5
+    ],
+    "class_list": [
+      "post-239",
+      "events",
+      "type-events",
+      "status-publish",
+      "hentry",
+      "events_categories-a",
+      "events_categories-b"
+    ],
+    "acf": {
+      "start_date": "20251028",
+      "end_date": null,
+      "recurrence_frequency": "0",
+      "starting_time": "",
+      "ending_time": "",
+      "event_place": "location",
+      "virtual_event_link": "",
+      "location_name": "",
+      "location_address": {
+        "address": "10 English St, Essendon Fields VIC 3041, Australia",
+        "lat": -37.7268729581689,
+        "lng": 144.893960952759,
+        "zoom": 14,
+        "place_id": "ChIJe5JkvvJb1moRd5GgkooCRBo",
+        "street_number": 10,
+        "street_name": "English Street",
+        "street_name_short": "English St",
+        "city": "Essendon Fields",
+        "state": "Victoria",
+        "state_short": "VIC",
+        "post_code": 3041,
+        "country": "Australia",
+        "country_short": "AU"
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events/239",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/types/events"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 2,
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events/239/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 264,
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events/239/revisions/264"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/media?parent=239"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "events_categories",
+          "embeddable": true,
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events_categories?post=239"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 231,
+    "date": "2024-12-08T04:26:01",
+    "date_gmt": "2024-12-08T10:26:01",
+    "guid": {
+      "rendered": "https://ll-sandbox.mystagingwebsite.com/events/events/rem-quibusdam-non-ut-id-non/"
+    },
+    "modified": "2024-12-09T15:53:25",
+    "modified_gmt": "2024-12-09T21:53:25",
+    "slug": "rem-quibusdam-non-ut-id-non",
+    "status": "publish",
+    "type": "events",
+    "link": "https://ll-sandbox.mystagingwebsite.com/events/events/rem-quibusdam-non-ut-id-non/",
+    "title": {
+      "rendered": "Rem quibusdam non ut id non"
+    },
+    "content": {
+      "rendered": "\u003Ch3\u003EEt sequi aut eveniet ut et aliquam\u003C/h3\u003E\n\u003Cp\u003E\u003C!--more--\u003E\u003Cbr /\u003E\n\u003Cimg decoding=\"async\" class=\"alignleft\" src=\"https://ll-sandbox.mystagingwebsite.com/events/wp-content/uploads/sites/5/2024/12/3399127f-f521-3e9f-b0c6-a9c0d537263f.jpg\"\u003E\u003C/p\u003E\n\u003Ch5\u003EUt facere eum sapiente earum iste ut. Iure architecto sunt debitis unde. Rerum optio qui dolorem facilis\u003C/h5\u003E\n\u003Chr\u003E\n\u003Chr\u003E\n\u003Ch4\u003ERepellat commodi et porro nisi excepturi quibusdam ut. Aut quisquam sit quisquam voluptates nostrum fuga hic. Quas alias ab sit commodi\u003C/h4\u003E\n\u003Cul\u003E\n\u003Cli\u003EVelit vel atque\u003C/li\u003E\n\u003Cli\u003EAut consequatur\u003C/li\u003E\n\u003Cli\u003EDeserunt eligendi\u003C/li\u003E\n\u003Cli\u003EUt sapiente sed sint voluptas\u003C/li\u003E\n\u003Cli\u003EUt harum earum ut fugit\u003C/li\u003E\n\u003Cli\u003ENatus maxime a veniam\u003C/li\u003E\n\u003C/ul\u003E\n\u003Ch2\u003EIllum in debitis pariatur. Ut est facilis molestiae corrupti ullam earum. Odio numquam qui dolores voluptatibus\u003C/h2\u003E\n\u003Cul\u003E\n\u003Cli\u003EEt et omnis eum est\u003C/li\u003E\n\u003Cli\u003EEa exercitationem\u003C/li\u003E\n\u003Cli\u003ESit ut quae ut et sit totam\u003C/li\u003E\n\u003Cli\u003EQui autem et eos saepe\u003C/li\u003E\n\u003Cli\u003EQuas in et fuga aut vitae\u003C/li\u003E\n\u003Cli\u003EOccaecati debitis qui qui excepturi\u003C/li\u003E\n\u003C/ul\u003E\n\u003Ch2\u003EEt minima eum soluta quia. Excepturi velit dolorum quia et autem in. Illo aut itaque omnis nostrum quos\u003C/h2\u003E\n\u003Cblockquote\u003E\u003Cp\u003EUt ea voluptatibus fugit. Neque ullam quisquam et cupiditate modi. iste itaque qui commodi. Voluptate fuga assumenda enim ipsum neque alias est. Eum et quae totam qui. ullam non labore quod accusamus occaecati vel. Adipisci est porro in ut Similique fuga maxime saepe rem rerum quisquam cum. placeat non vitae in voluptatem. Quos eum voluptatem dolore. quidem quia quis animi. Ab amet consequatur enim. Consequatur id et eum. Porro corrupti quidem fugiat cumque. Et \u003Ca title=\"Explicabo sit et est exercitationem eaque voluptatibus.\" href=\"http://langosh.com/nostrum-cumque-perspiciatis-possimus-alias\"\u003Eperferendis\u003C/a\u003E sequi veritatis. Inventore qui sint qui et dolore exercitationem. Molestias qui quibusdam voluptatibus quia. id voluptatem quae ipsum aut. Quas qui ex nemo laborum expedita aspernatur at. Tenetur necessitatibus sunt veritatis dolor reprehenderit. A mollitia dolor est perspiciatis voluptatibus sed. Aut placeat \u003Ca title=\"Eum ab.\" href=\"http://bashirian.com/perspiciatis-vel-sed-id-et-quae.html\"\u003Esoluta. Sint tenetur\u003C/a\u003E beatae quaerat voluptatem adipisci Est eaque eaque. suscipit tenetur tempora accusamus est molestias animi. Occaecati rerum animi quisquam voluptates. Sunt eaque hic ut Officia adipisci exercitationem est. In numquam nostrum nulla ut molestias. Quo et doloribus repudiandae. corrupti libero sit accusantium neque. Nisi a cum non. ut molestiae iste non quia. aliquid rerum veritatis laboriosam ducimus Nesciunt qui quas mollitia corrupti. Maxime ut est non. Aut earum sed voluptatem dolorum Non tempore harum cupiditate. Non qui occaecati numquam perferendis. Explicabo saepe quia consequatur. excepturi doloribus fugit quod est Sed harum repudiandae consequatur. enim veritatis aut Consequatur officiis neque impedit neque qui. Ut totam ipsa suscipit voluptates. Voluptas error ea animi. dolorem et dolorem Molestias tempore hic est non aut. Id veritatis nobis debitis itaque fugit. Numquam \u003Ca title=\"Numquam nihil veritatis quis quibusdam porro.\" href=\"https://reichert.info/in-quis-sint-ut-ea-natus-temporibus.html\"\u003Equi at quos porro expedita. Voluptatum\u003C/a\u003E amet non ipsum et. consectetur molestiae commodi.\u003C/p\u003E\u003C/blockquote\u003E\n\u003Ch6\u003ENumquam atque blanditiis est beatae quis quasi. Vel quisquam eveniet optio non reprehenderit nulla. Delectus unde a incidunt accusamus fugiat aliquid\u003C/h6\u003E\n\u003Cblockquote\u003E\u003Cp\u003E\u003Ca title=\"Quas quo ut sapiente natus repellat nam.\" href=\"http://www.sipes.biz/\"\u003EMaiores\u003C/a\u003E doloribus dolores expedita. explicabo qui nihil asperiores occaecati ex. Dolores reiciendis a fuga. Est iusto \u003Ca title=\"Quibusdam.\" href=\"http://goyette.com/\"\u003Equod et error est\u003C/a\u003E Voluptate repudiandae reiciendis et soluta \u003Ca title=\"Delectus quod tempore.\" href=\"https://reilly.com/cumque-nemo-natus-eos-vel-eos.html\"\u003Eblanditiis. Velit optio deleniti\u003C/a\u003E saepe corrupti inventore illo. Tempora aperiam provident dolores sit. Illum dolore autem aut aliquid.\u003C/p\u003E\u003C/blockquote\u003E\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "\u003Cp\u003EEt sequi aut eveniet ut et aliquam\u003C/p\u003E\n",
+      "protected": false
+    },
+    "featured_media": 1,
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "footnotes": ""
+    },
+    "events_categories": [],
+    "class_list": [
+      "post-231",
+      "events",
+      "type-events",
+      "status-publish",
+      "has-post-thumbnail",
+      "hentry"
+    ],
+    "acf": {
+      "start_date": "20251125",
+      "end_date": "20251130",
+      "recurrence_frequency": "0",
+      "starting_time": "",
+      "ending_time": "",
+      "event_place": "location",
+      "virtual_event_link": "",
+      "location_name": "",
+      "location_address": {
+        "address": "Fawkner Park, 24-88 Commercial Rd, South Yarra VIC 3141, Australia",
+        "lat": -37.8415124768227,
+        "lng": 144.982109069824,
+        "zoom": 14,
+        "place_id": "ChIJ4becPh9o1moRqLXKVo93Up0",
+        "street_number": "24-88",
+        "street_name": "Commercial Road",
+        "street_name_short": "Commercial Rd",
+        "city": "South Yarra",
+        "state": "Victoria",
+        "state_short": "VIC",
+        "post_code": 3141,
+        "country": "Australia",
+        "country_short": "AU"
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events/231",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/types/events"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 1,
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events/231/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 262,
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events/231/revisions/262"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/posts/1"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/media?parent=231"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "events_categories",
+          "embeddable": true,
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events_categories?post=231"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 236,
+    "date": "2024-12-08T00:57:21",
+    "date_gmt": "2024-12-08T06:57:21",
+    "guid": {
+      "rendered": "https://ll-sandbox.mystagingwebsite.com/events/events/excepturi-et-odit-qui-debitis-ut-magnam/"
+    },
+    "modified": "2024-12-09T15:54:00",
+    "modified_gmt": "2024-12-09T21:54:00",
+    "slug": "excepturi-et-odit-qui-debitis-ut-magnam",
+    "status": "publish",
+    "type": "events",
+    "link": "https://ll-sandbox.mystagingwebsite.com/events/events/excepturi-et-odit-qui-debitis-ut-magnam/",
+    "title": {
+      "rendered": "Excepturi et odit qui debitis ut magnam"
+    },
+    "content": {
+      "rendered": "\u003Ch6\u003EReprehenderit alias corporis perspiciatis earum sequi. Quisquam enim voluptatem nemo et\u003C/h6\u003E\n\u003Col\u003E\n\u003Cli\u003EEst earum sit est rerum iusto\u003C/li\u003E\n\u003Cli\u003ERerum earum adipisci ipsa omnis\u003C/li\u003E\n\u003C/ol\u003E\n\u003Cp\u003E\u003Cimg decoding=\"async\" alt=\"At quis beatae animi natus est ea accusantium qui voluptates minus\" src=\"https://ll-sandbox.mystagingwebsite.com/events/wp-content/uploads/sites/5/2024/12/2c111e32-a6b1-3bf2-a667-c771fac0cfca.jpg\"\u003E\u003C/p\u003E\n\u003Ch5\u003ENon placeat et non et a. Vel rem ex dolores perspiciatis enim qui magni. Sequi ut magnam rerum\u003C/h5\u003E\n\u003Cp\u003ENobis sed cum voluptas praesentium similique et pariatur. Dolor ab dignissimos libero corrupti neque. Neque sequi porro quaerat temporibus eveniet repellendus quisquam. Ut rerum velit ea velit facilis architecto. Eaque praesentium cum quo est nisi laborum. Quod accusantium quia recusandae dignissimos. Ab id enim accusamus mollitia enim quia vel veritatis. Aperiam iure repudiandae porro eos cupiditate similique quis voluptas. Eligendi quis laboriosam consequuntur ab eaque exercitationem. Corrupti sequi doloremque minus molestiae quia. Soluta perferendis id et voluptatem repellendus. Dolorum fugiat est itaque et dolorem est ut. Eum at quia tempora harum aut. Voluptas inventore blanditiis odit totam quos dolorem et.\u003C/p\u003E\n\u003Ch1\u003EConsectetur vitae ad ut non id est. Quia et hic ut. Architecto rerum ratione corporis itaque\u003C/h1\u003E\n\u003Cp\u003E\u003C!--more--\u003E\u003Cbr /\u003E\n\u003Cimg decoding=\"async\" alt=\"Expedita nihil officiis beatae aut perspiciatis sed in\" src=\"https://ll-sandbox.mystagingwebsite.com/events/wp-content/uploads/sites/5/2024/12/d20a1f3c-58a4-3fbe-99c5-3653f28eae34.jpg\"\u003E\u003C/p\u003E\n\u003Chr\u003E\n\u003Cblockquote\u003E\u003Cp\u003EBeatae et voluptas doloremque provident expedita. Voluptatibus qui pariatur cumque velit voluptatum. maiores sed doloremque aspernatur tempore. Rerum est animi \u003Ca title=\"Necessitatibus id.\" href=\"http://www.bernhard.com/qui-illum-aut-et\"\u003Eitaque et.\u003C/a\u003E et laboriosam exercitationem quaerat Aspernatur voluptas aut doloribus accusamus nam ab nemo. Laborum iusto aspernatur. Pariatur id nostrum necessitatibus. Aspernatur necessitatibus suscipit consequatur aut.\u003C/p\u003E\u003C/blockquote\u003E\n\u003Ch2\u003EQuae iste aut ea voluptas. Aut est autem quia sit. Sapiente sit molestiae neque\u003C/h2\u003E\n\u003Chr\u003E\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "\u003Cp\u003EQuidem quis.\u003C/p\u003E\n",
+      "protected": false
+    },
+    "featured_media": 237,
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "footnotes": ""
+    },
+    "events_categories": [
+      4,
+      5
+    ],
+    "class_list": [
+      "post-236",
+      "events",
+      "type-events",
+      "status-publish",
+      "has-post-thumbnail",
+      "hentry",
+      "events_categories-a",
+      "events_categories-b"
+    ],
+    "acf": {
+      "start_date": "20251224",
+      "end_date": "20251231",
+      "recurrence_frequency": "0",
+      "starting_time": "",
+      "ending_time": "",
+      "event_place": "location",
+      "virtual_event_link": "",
+      "location_name": "",
+      "location_address": {
+        "address": "62 Dawson St, Brunswick VIC 3056, Australia",
+        "lat": -37.7707825848931,
+        "lng": 144.956102371216,
+        "zoom": 14,
+        "place_id": "ChIJD0JOBzFd1moRpmgjA96fsTg",
+        "street_number": 62,
+        "street_name": "Dawson Street",
+        "street_name_short": "Dawson St",
+        "city": "Brunswick",
+        "state": "Victoria",
+        "state_short": "VIC",
+        "post_code": 3056,
+        "country": "Australia",
+        "country_short": "AU"
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events/236",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/types/events"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 1,
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events/236/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 263,
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events/236/revisions/263"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/media/237"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/media?parent=236"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "events_categories",
+          "embeddable": true,
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events_categories?post=236"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 106,
+    "date": "2023-05-04T22:26:11",
+    "date_gmt": "2023-05-04T22:26:11",
+    "guid": {
+      "rendered": "https://ll-sandbox.mystagingwebsite.com/events/?post_type=events&#038;p=106"
+    },
+    "modified": "2024-11-07T02:26:33",
+    "modified_gmt": "2024-11-07T02:26:33",
+    "slug": "past-event-2",
+    "status": "publish",
+    "type": "events",
+    "link": "https://ll-sandbox.mystagingwebsite.com/events/events/past-event-2/",
+    "title": {
+      "rendered": "Past Event 2"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "\u003Cp\u003EPast Event test\u003C/p\u003E\n",
+      "protected": false
+    },
+    "featured_media": 25,
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "footnotes": ""
+    },
+    "events_categories": [
+      4
+    ],
+    "class_list": [
+      "post-106",
+      "events",
+      "type-events",
+      "status-publish",
+      "has-post-thumbnail",
+      "hentry",
+      "events_categories-a"
+    ],
+    "acf": {
+      "start_date": "20230413",
+      "end_date": "20230418",
+      "recurrence_frequency": "0",
+      "starting_time": "11:00:00",
+      "ending_time": "",
+      "event_place": "location",
+      "virtual_event_link": "",
+      "location_name": "The Garden",
+      "location_address": {
+        "address": "Madison Square Garden, Pennsylvania Plaza, New York, NY, USA",
+        "lat": 40.7505045,
+        "lng": -73.9934387,
+        "zoom": 14,
+        "place_id": "ChIJhRwB-yFawokR5Phil-QQ3zM",
+        "name": "Madison Square Garden",
+        "street_number": 4,
+        "street_name": "Pennsylvania Plaza",
+        "city": "New York",
+        "state": "New York",
+        "state_short": "NY",
+        "post_code": 10001,
+        "country": "United States",
+        "country_short": "US"
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events/106",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/types/events"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 6,
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events/106/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 186,
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events/106/revisions/186"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/media/25"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/media?parent=106"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "events_categories",
+          "embeddable": true,
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events_categories?post=106"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 103,
+    "date": "2023-05-04T22:25:09",
+    "date_gmt": "2023-05-04T22:25:09",
+    "guid": {
+      "rendered": "https://ll-sandbox.mystagingwebsite.com/events/?post_type=events&#038;p=103"
+    },
+    "modified": "2024-02-22T23:56:40",
+    "modified_gmt": "2024-02-22T23:56:40",
+    "slug": "past-event-1",
+    "status": "publish",
+    "type": "events",
+    "link": "https://ll-sandbox.mystagingwebsite.com/events/events/past-event-1/",
+    "title": {
+      "rendered": "Past Event 1"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "\u003Cp\u003EPast event test\u003C/p\u003E\n",
+      "protected": false
+    },
+    "featured_media": 29,
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "footnotes": ""
+    },
+    "events_categories": [
+      5
+    ],
+    "class_list": [
+      "post-103",
+      "events",
+      "type-events",
+      "status-publish",
+      "has-post-thumbnail",
+      "hentry",
+      "events_categories-b"
+    ],
+    "acf": {
+      "start_date": "20230503",
+      "end_date": "20230504",
+      "recurrence_frequency": "0",
+      "starting_time": "00:00:00",
+      "ending_time": "",
+      "event_place": "",
+      "virtual_event_link": "",
+      "location_name": "",
+      "location_address": null
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events/103",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/types/events"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 4,
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events/103/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 187,
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events/103/revisions/187"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/media/29"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/media?parent=103"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "events_categories",
+          "embeddable": true,
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events_categories?post=103"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 46,
+    "date": "2023-04-14T22:45:30",
+    "date_gmt": "2023-04-14T22:45:30",
+    "guid": {
+      "rendered": "https://ll-sandbox.mystagingwebsite.com/events/?post_type=events&#038;p=46"
+    },
+    "modified": "2024-02-22T22:17:35",
+    "modified_gmt": "2024-02-22T22:17:35",
+    "slug": "lorem-lipsum",
+    "status": "publish",
+    "type": "events",
+    "link": "https://ll-sandbox.mystagingwebsite.com/events/events/lorem-lipsum/",
+    "title": {
+      "rendered": "lorem lipsum"
+    },
+    "content": {
+      "rendered": "\n\u003Cp\u003ELorem, ipsum dolor sit amet consectetur adipisicing elit. Eligendi voluptas veritatis laudantium culpa modi sapiente nemo minus? Blanditiis harum ut, facilis commodi, explicabo quod temporibus ea quo illum aspernatur perferendis?\u003C/p\u003E\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "\u003Cp\u003ELorem, ipsum dolor sit amet consectetur adipisicing elit. Eligendi voluptas veritatis laudantium culpa modi sapiente nemo minus? Blanditiis harum ut, facilis commodi, explicabo quod temporibus ea quo illum aspernatur perferendis?\u003C/p\u003E\n",
+      "protected": false
+    },
+    "featured_media": 20,
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "footnotes": ""
+    },
+    "events_categories": [
+      5
+    ],
+    "class_list": [
+      "post-46",
+      "events",
+      "type-events",
+      "status-publish",
+      "has-post-thumbnail",
+      "hentry",
+      "events_categories-b"
+    ],
+    "acf": {
+      "start_date": "20241018",
+      "end_date": "20241027",
+      "recurrence_frequency": "4",
+      "starting_time": "15:00:00",
+      "ending_time": "21:00:00",
+      "event_place": "location",
+      "virtual_event_link": "",
+      "location_name": "Bu • cees",
+      "location_address": {
+        "address": "12507 Millvan Drive, Houston, TX, USA",
+        "lat": 29.9545421,
+        "lng": -95.5799227,
+        "zoom": 14,
+        "place_id": "ChIJvzgNKxnSQIYRWmF7qsB6lNk",
+        "name": "12507 Millvan Dr",
+        "street_number": 12507,
+        "street_name": "Millvan Drive",
+        "street_name_short": "Millvan Dr",
+        "city": "Houston",
+        "state": "Texas",
+        "state_short": "TX",
+        "post_code": 77070,
+        "country": "United States",
+        "country_short": "US"
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events/46",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/types/events"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 25,
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events/46/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 190,
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events/46/revisions/190"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/media/20"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/media?parent=46"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "events_categories",
+          "embeddable": true,
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events_categories?post=46"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 30,
+    "date": "2023-04-13T08:33:38",
+    "date_gmt": "2023-04-13T08:33:38",
+    "guid": {
+      "rendered": "https://ll-sandbox.mystagingwebsite.com/events/events/voluptate-qui-eos-cumque-vero/"
+    },
+    "modified": "2024-02-22T22:18:41",
+    "modified_gmt": "2024-02-22T22:18:41",
+    "slug": "voluptate-qui-eos-cumque-vero",
+    "status": "publish",
+    "type": "events",
+    "link": "https://ll-sandbox.mystagingwebsite.com/events/events/voluptate-qui-eos-cumque-vero/",
+    "title": {
+      "rendered": "Voluptate qui eos cumque vero"
+    },
+    "content": {
+      "rendered": "\u003Ch4\u003EVoluptatem deserunt ut doloremque occaecati qui quasi iure. Laboriosam ut dolorem et doloribus autem quo\u003C/h4\u003E\n\u003Chr /\u003E\n\u003Chr /\u003E\n\u003Ch2\u003EDolorem vel nemo veritatis nam\u003C/h2\u003E\n\u003Cp\u003E\u003C!--more--\u003E\u003C/p\u003E\n\u003Chr /\u003E\n\u003Chr /\u003E\n\u003Ch1\u003EAutem esse ea corporis sed dolorem. Ipsum quia odit ab nihil. Molestiae voluptas vero est\u003C/h1\u003E\n\u003Col\u003E\n\u003Cli\u003EUt aut est recusandae quibusdam\u003C/li\u003E\n\u003Cli\u003EAspernatur dolor eos sapiente sit sit eligendi minima\u003C/li\u003E\n\u003Cli\u003EQuae nemo nihil exercitationem quia omnis\u003C/li\u003E\n\u003Cli\u003EExercitationem nemo sint dolores molestiae\u003C/li\u003E\n\u003Cli\u003ECupiditate eius autem sequi soluta iusto\u003C/li\u003E\n\u003Cli\u003EQuas alias\u003C/li\u003E\n\u003Cli\u003EMollitia et corporis quia asperiores earum officiis\u003C/li\u003E\n\u003Cli\u003ENostrum autem at nostrum\u003C/li\u003E\n\u003Cli\u003EVitae ut perferendis quo et\u003C/li\u003E\n\u003C/ol\u003E\n\u003Ch5\u003EEt dolorum vitae aut non. Voluptas ea et eius quia aut voluptates. Enim aspernatur ut non velit. Nisi dolor qui ut\u003C/h5\u003E\n\u003Chr /\u003E\n\u003Col\u003E\n\u003Cli\u003EVoluptatem omnis\u003C/li\u003E\n\u003Cli\u003EOmnis cum ipsum quis\u003C/li\u003E\n\u003Cli\u003EQui aut nostrum in\u003C/li\u003E\n\u003Cli\u003EDolores quisquam aut voluptas vel qui sint\u003C/li\u003E\n\u003Cli\u003EUt consequatur enim voluptatem qui\u003C/li\u003E\n\u003Cli\u003EReprehenderit et qui autem enim\u003C/li\u003E\n\u003Cli\u003EIpsum rerum ex quas dolores\u003C/li\u003E\n\u003Cli\u003ESapiente asperiores\u003C/li\u003E\n\u003C/ol\u003E\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "\u003Cp\u003EIpsum a eligendi quibusdam.\u003C/p\u003E\n\u003Cp\u003EVeniam similique sed illo.\u003C/p\u003E\n",
+      "protected": false
+    },
+    "featured_media": 31,
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "footnotes": ""
+    },
+    "events_categories": [
+      5,
+      6
+    ],
+    "class_list": [
+      "post-30",
+      "events",
+      "type-events",
+      "status-publish",
+      "has-post-thumbnail",
+      "hentry",
+      "events_categories-b",
+      "events_categories-c"
+    ],
+    "acf": {
+      "start_date": "20240612",
+      "end_date": "20240615",
+      "recurrence_frequency": "0",
+      "starting_time": "10:00:00",
+      "ending_time": "21:00:00",
+      "event_place": "location",
+      "virtual_event_link": "",
+      "location_name": "The moon",
+      "location_address": {
+        "address": "Parallel, A Brand Agency, Huebner Road, San Antonio, TX, USA",
+        "lat": 29.5349116,
+        "lng": -98.5876147,
+        "zoom": 14,
+        "place_id": "ChIJm0pYuzhnXIYRrJyvdDF-hcU",
+        "name": "Parallel, A Brand Agency",
+        "street_number": 9910,
+        "street_name": "Huebner Road",
+        "street_name_short": "Huebner Rd",
+        "city": "San Antonio",
+        "state": "Texas",
+        "state_short": "TX",
+        "post_code": 78240,
+        "country": "United States",
+        "country_short": "US"
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events/30",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/types/events"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 11,
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events/30/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 168,
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events/30/revisions/168"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/media/31"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/media?parent=30"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "events_categories",
+          "embeddable": true,
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events_categories?post=30"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 23,
+    "date": "2023-04-13T07:11:10",
+    "date_gmt": "2023-04-13T07:11:10",
+    "guid": {
+      "rendered": "https://ll-sandbox.mystagingwebsite.com/events/events/a-ut-quia-voluptatem/"
+    },
+    "modified": "2024-11-07T16:54:08",
+    "modified_gmt": "2024-11-07T22:54:08",
+    "slug": "a-ut-quia-voluptatem",
+    "status": "publish",
+    "type": "events",
+    "link": "https://ll-sandbox.mystagingwebsite.com/events/events/a-ut-quia-voluptatem/",
+    "title": {
+      "rendered": "Event From backup json"
+    },
+    "content": {
+      "rendered": "\u003Chr /\u003E\n\u003Ch2\u003EPlaceat aut sed est enim nesciunt et. Unde et ut saepe et soluta doloribus et omnis\u003C/h2\u003E\n\u003Cp\u003E\u003C!--more--\u003E\u003C/p\u003E\n\u003Cp\u003EError incidunt et officiis cumque saepe. Consequatur ut repellendus. Ut blanditiis illo est deleniti modi Dolor magni sit dolorum enim \u003Ca title=\"Quas architecto eveniet.\" href=\"http://gislason.com/id-similique-veniam-assumenda-dolorem.html\"\u003EAspernatur autem dolor praesentium ut\u003C/a\u003E non. Aut minus et Ut placeat quisquam ut cupiditate porro voluptas Eos aliquam voluptatibus blanditiis non. Quis aut quod et. molestiae consequatur voluptas eos. Autem ea consequatur dolores sunt Sunt dolor iusto possimus vero tenetur. Non incidunt aut consequatur maxime sit Sapiente ullam in aut dolor voluptatibus non voluptatibus. Numquam iste alias nihil. Veritatis magnam voluptatem quod. Quam est et maxime Aut reprehenderit cumque et quo veniam. Eius eaque esse labore excepturi cum. Sequi voluptatem nihil reprehenderit libero dolor. Reiciendis maxime quo rerum distinctio. Ab fugiat optio distinctio architecto. fugiat voluptatem sunt ratione qui. Quo porro quis possimus. Autem quisquam occaecati consequatur deserunt. qui modi accusantium eius iste. et soluta rerum ut quisquam minima. sunt autem qui temporibus sunt Totam consequatur at dicta rerum. Harum odit voluptatem. alias culpa eveniet. sunt cupiditate omnis doloribus officiis atque doloremque. Autem facilis molestiae qui animi ipsum. Ut aut \u003Ca title=\"Quaerat ut sint delectus.\" href=\"http://bradtke.org/ullam-quis-iusto-rerum-nemo-facilis-vel\"\u003Evoluptatem fugit voluptas molestias enim.\u003C/a\u003E perspiciatis dolorem omnis qui aspernatur velit. et dolorum illum voluptatem. Qui ab provident alias deleniti qui. Sit laborum quo. Consequatur perferendis eos et omnis. Est aut id et totam. Minima aut explicabo est tempora voluptatibus Sed laboriosam quod quo Inventore ipsam et nam minima Corporis praesentium tempora et inventore. Ullam et error inventore sed et optio Omnis accusantium ut quas. et rerum commodi quod non quia. et autem libero neque. ea numquam aut Quaerat quo temporibus maxime omnis nostrum totam. voluptatem commodi voluptate officiis. Aut recusandae officia nostrum quia.\u003C/p\u003E\n\u003Ch6\u003EPlaceat corrupti occaecati recusandae soluta. Minus voluptatem quibusdam qui at vel inventore consectetur architecto\u003C/h6\u003E\n\u003Cblockquote\u003E\u003Cp\u003EEt deleniti ea \u003Ca title=\"Repellat dicta.\" href=\"http://www.connelly.biz/vero-quia-illum-nostrum-a-libero-alias-excepturi\"\u003Equia.\u003C/a\u003E aut rerum eligendi cumque ut ex. Repudiandae consequatur ducimus et. \u003Ca title=\"Nisi rem molestiae doloremque.\" href=\"http://www.predovic.com/quos-est-nesciunt-corporis-provident-consequuntur-expedita.html\"\u003Edolores blanditiis\u003C/a\u003E Ut non omnis hic quidem \u003Ca title=\"Repudiandae aut.\" href=\"http://www.carroll.com/ad-nihil-et-enim-nemo.html\"\u003Edelectus quas.\u003C/a\u003E aut ipsa \u003Ca title=\"Doloribus modi aut.\" href=\"http://ferry.com/voluptatem-eius-facilis-illum-quae\"\u003Eearum occaecati molestiae aut et.\u003C/a\u003E molestias vel exercitationem et \u003Ca title=\"Sunt quia impedit culpa.\" href=\"http://www.pollich.com/omnis-facere-dolorum-facere-ratione.html\"\u003EQuia impedit et\u003C/a\u003E sit. aperiam inventore unde et eos hic. Soluta facere quia beatae rem maxime. Et ut omnis nemo voluptatem.\u003C/p\u003E\u003C/blockquote\u003E\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "\u003Cp\u003EPlaceat aut sed est enim nesciunt et. Unde et ut saepe et soluta doloribus et omnis\u003C/p\u003E\n",
+      "protected": false
+    },
+    "featured_media": 24,
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "footnotes": ""
+    },
+    "events_categories": [
+      4,
+      6
+    ],
+    "class_list": [
+      "post-23",
+      "events",
+      "type-events",
+      "status-publish",
+      "has-post-thumbnail",
+      "hentry",
+      "events_categories-a",
+      "events_categories-c"
+    ],
+    "acf": {
+      "start_date": "20241225",
+      "end_date": null,
+      "recurrence_frequency": "0",
+      "starting_time": "",
+      "ending_time": "",
+      "event_place": "location",
+      "virtual_event_link": "https://htmldom.dev/",
+      "location_name": "",
+      "location_address": {
+        "address": "Japanese Tea Garden, North Saint Mary's Street, San Antonio, TX, USA",
+        "lat": 29.4607351,
+        "lng": -98.4773381,
+        "zoom": 14,
+        "place_id": "ChIJcfALjoX1XIYRT96JCgVI1Qc",
+        "name": "Japanese Tea Garden",
+        "street_number": 3853,
+        "street_name": "North Saint Mary's Street",
+        "street_name_short": "N St Mary's St",
+        "city": "San Antonio",
+        "state": "Texas",
+        "state_short": "TX",
+        "post_code": 78212,
+        "country": "United States",
+        "country_short": "US"
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events/23",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/types/events"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 8,
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events/23/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 217,
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events/23/revisions/217"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/media/24"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/media?parent=23"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "events_categories",
+          "embeddable": true,
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events_categories?post=23"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 28,
+    "date": "2023-04-13T05:52:01",
+    "date_gmt": "2023-04-13T05:52:01",
+    "guid": {
+      "rendered": "https://ll-sandbox.mystagingwebsite.com/events/events/illum-tempora-debitis-magnam-omnis/"
+    },
+    "modified": "2024-11-07T15:11:05",
+    "modified_gmt": "2024-11-07T21:11:05",
+    "slug": "illum-tempora-debitis-magnam-omnis",
+    "status": "publish",
+    "type": "events",
+    "link": "https://ll-sandbox.mystagingwebsite.com/events/events/illum-tempora-debitis-magnam-omnis/",
+    "title": {
+      "rendered": "Illum tempora debitis magnam omnis"
+    },
+    "content": {
+      "rendered": "\u003Ch3\u003EAut nihil incidunt voluptatem rerum iure voluptas eveniet. Alias numquam libero laborum ut beatae. Qui velit laudantium molestiae consequatur provident id harum\u003C/h3\u003E\n\u003Cp\u003E\u003Cimg decoding=\"async\" src=\"https://ll-sandbox.mystagingwebsite.com/events/wp-content/uploads/sites/5/2023/04/11fa55a0-0371-3263-b75e-084d915ac618.jpg\"\u003E\u003Cbr /\u003E\n\u003C!--more--\u003E\u003C/p\u003E\n\u003Ch3\u003ETenetur error voluptas quibusdam quae alias possimus velit. Qui esse esse odit dicta\u003C/h3\u003E\n\u003Cblockquote\u003E\u003Cp\u003EEnim dicta accusantium totam et. Assumenda harum ea ad reiciendis et. Impedit in eum sed quod in error incidunt. Consequuntur necessitatibus voluptate eum quia nobis. Cumque iusto a occaecati veritatis. Praesentium atque amet quo molestias. Voluptatem quo distinctio ipsa rerum. In eos qui officiis unde eaque. Itaque cumque omnis nihil. Fugit quod blanditiis consectetur quisquam corporis quisquam. Asperiores excepturi dignissimos consequatur deleniti excepturi numquam quia magnam. Dolorem facilis dignissimos enim nobis delectus illo accusantium. Magni quia omnis quasi rerum in et.\u003C/p\u003E\u003C/blockquote\u003E\n\u003Cp\u003E\u003Cimg decoding=\"async\" class=\"aligncenter\" alt=\"Et natus consectetur aut incidunt omnis doloribus reiciendis\" src=\"https://ll-sandbox.mystagingwebsite.com/events/wp-content/uploads/sites/5/2023/04/dffbca48-b9f2-394f-b846-f3cb47ff204c.png\"\u003E\u003C/p\u003E\n\u003Ch1\u003EAut perferendis deserunt rem dolorum enim ipsum ducimus. Quod vel aut facilis corrupti molestias qui qui. Aliquid voluptatum dolorem officiis\u003C/h1\u003E\n\u003Cp\u003E\u003Cimg decoding=\"async\" class=\"alignleft\" src=\"https://ll-sandbox.mystagingwebsite.com/events/wp-content/uploads/sites/5/2023/04/be8ecf69-5964-3722-88ad-035dc4df29a7.png\"\u003E\u003C/p\u003E\n\u003Cblockquote\u003E\u003Cp\u003ERepudiandae rerum officiis saepe numquam \u003Ca title=\"Provident nam cumque.\" href=\"http://miller.com/\"\u003Enumquam. Officiis\u003C/a\u003E id rerum nihil Totam nesciunt hic rerum molestias reprehenderit at. Reiciendis dolor velit et. Eos aut laudantium voluptas sapiente vero. nobis accusamus ipsa molestias id. architecto qui iste. Cupiditate qui ea Deleniti qui voluptatem qui. et est. animi explicabo quaerat inventore. impedit rerum \u003Ca title=\"Minus id tempore culpa architecto iusto.\" href=\"http://effertz.com/ut-laudantium-provident-est-quos-molestiae-fugiat.html\"\u003Evoluptas\u003C/a\u003E Laudantium neque consectetur quas. Aut dicta doloribus eum impedit. Repudiandae quis unde. Ducimus doloremque delectus corporis. Quod delectus magni deserunt voluptas. Maiores aliquam Impedit ut occaecati odit. Rerum quibusdam qui officiis quaerat dolorem modi. Modi qui ut Dolores alias adipisci soluta enim. Qui iure qui ut consequatur nisi. Quas quae et ex recusandae Quo itaque quia saepe dolorum. Nostrum sunt est eos. Nisi ducimus mollitia dolor repellendus blanditiis. Unde facilis sed aut similique ea dolore. Soluta \u003Ca title=\"Eius explicabo ex necessitatibus consequatur saepe.\" href=\"https://www.deckow.com/id-quia-doloribus-repellendus-commodi-commodi\"\u003Enostrum est aliquam impedit et deleniti. Alias\u003C/a\u003E ut magnam sunt non facilis sapiente. quam rerum officiis ut laboriosam sequi. Exercitationem nihil labore iusto adipisci accusantium Vero qui odio ducimus. Est qui eaque. non assumenda iusto quia Omnis aliquam et qui esse dignissimos quo.\u003C/p\u003E\u003C/blockquote\u003E\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "\u003Cp\u003EFugiat omnis.\u003C/p\u003E\n\u003Cp\u003EMolestiae ducimus.\u003C/p\u003E\n\u003Cp\u003EFacilis sint.\u003C/p\u003E\n\u003Cp\u003ENisi.\u003C/p\u003E\n",
+      "protected": false
+    },
+    "featured_media": 29,
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "footnotes": ""
+    },
+    "events_categories": [
+      4
+    ],
+    "class_list": [
+      "post-28",
+      "events",
+      "type-events",
+      "status-publish",
+      "has-post-thumbnail",
+      "hentry",
+      "events_categories-a"
+    ],
+    "acf": {
+      "start_date": "20241122",
+      "end_date": "20241122",
+      "recurrence_frequency": "4",
+      "starting_time": "18:00:00",
+      "ending_time": "",
+      "event_place": "virtual",
+      "virtual_event_link": "",
+      "location_name": "",
+      "location_address": null
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events/28",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/types/events"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 7,
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events/28/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 215,
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events/28/revisions/215"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/media/29"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/media?parent=28"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "events_categories",
+          "embeddable": true,
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events_categories?post=28"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 21,
+    "date": "2023-04-13T03:37:11",
+    "date_gmt": "2023-04-13T03:37:11",
+    "guid": {
+      "rendered": "https://ll-sandbox.mystagingwebsite.com/events/events/consequatur-porro-iste-sit-et-ab-ipsam/"
+    },
+    "modified": "2024-11-07T10:09:24",
+    "modified_gmt": "2024-11-07T16:09:24",
+    "slug": "consequatur-porro-iste-sit-et-ab-ipsam",
+    "status": "publish",
+    "type": "events",
+    "link": "https://ll-sandbox.mystagingwebsite.com/events/events/consequatur-porro-iste-sit-et-ab-ipsam/",
+    "title": {
+      "rendered": "Consequatur porro iste sit et ab ipsam"
+    },
+    "content": {
+      "rendered": "\u003Chr /\u003E\n\u003Chr /\u003E\n\u003Ch4\u003ESint excepturi labore et totam rem rerum laudantium. Dolorem perferendis minima quae soluta odit. Dolores aliquam nulla non maiores aut fugiat reiciendis sed\u003C/h4\u003E\n\u003Cp\u003EQuo error voluptatem inventore ut. necessitatibus fugiat eos veniam fugiat. Sunt consectetur libero iste esse sed. Error illo \u003Ca title=\"Laboriosam.\" href=\"http://www.borer.org/omnis-dolorem-earum-adipisci-error-autem-sint-facere\"\u003Eaut consectetur suscipit velit\u003C/a\u003E Consequatur quod quidem modi nam rerum maiores Aut animi saepe et dolore et quaerat. Doloribus quisquam error Distinctio fugit vero. Et aut incidunt. Aut quia ea et rerum. \u003Ca title=\"Non voluptatem.\" href=\"https://reynolds.biz/laudantium-et-expedita-est-sed-laborum-aspernatur-unde-a.html\"\u003Etempore tempore voluptatem cumque laborum.\u003C/a\u003E\u003C/p\u003E\n\u003Col\u003E\n\u003Cli\u003EQuasi ipsam harum illo\u003C/li\u003E\n\u003Cli\u003EA quo rerum molestias eos\u003C/li\u003E\n\u003Cli\u003EUt itaque asperiores in enim\u003C/li\u003E\n\u003Cli\u003EDolore dicta non\u003C/li\u003E\n\u003Cli\u003EMinima asperiores qui unde iure\u003C/li\u003E\n\u003Cli\u003EAspernatur tempore\u003C/li\u003E\n\u003C/ol\u003E\n\u003Cp\u003E\u003C!--more--\u003E\u003C/p\u003E\n\u003Chr /\u003E\n\u003Ch6\u003EMolestias reprehenderit et quam rem. Ut architecto atque id minus dolores\u003C/h6\u003E\n\u003Col\u003E\n\u003Cli\u003EEx dolor eos natus\u003C/li\u003E\n\u003Cli\u003EAtque nihil omnis quod a quia sit\u003C/li\u003E\n\u003Cli\u003EOmnis sint in\u003C/li\u003E\n\u003Cli\u003EEnim debitis sint est velit\u003C/li\u003E\n\u003Cli\u003EIpsam amet esse at quia vero\u003C/li\u003E\n\u003Cli\u003EFacilis sunt ut nobis\u003C/li\u003E\n\u003Cli\u003ERerum sunt\u003C/li\u003E\n\u003Cli\u003EOdio nihil est et ab\u003C/li\u003E\n\u003C/ol\u003E\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "\u003Cp\u003EDolor.\u003C/p\u003E\n",
+      "protected": false
+    },
+    "featured_media": 22,
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "footnotes": ""
+    },
+    "events_categories": [
+      5
+    ],
+    "class_list": [
+      "post-21",
+      "events",
+      "type-events",
+      "status-publish",
+      "has-post-thumbnail",
+      "hentry",
+      "events_categories-b"
+    ],
+    "acf": {
+      "start_date": "20241107",
+      "end_date": "20241107",
+      "recurrence_frequency": "0",
+      "starting_time": "",
+      "ending_time": "",
+      "event_place": "location",
+      "virtual_event_link": "",
+      "location_name": "",
+      "location_address": {
+        "address": "The White House, Washington, DC, USA",
+        "lat": 38.8976633,
+        "lng": -77.0365739,
+        "zoom": 14,
+        "place_id": "ChIJGVtI4by3t4kRr51d_Qm_x58",
+        "name": "The White House",
+        "city": "Washington",
+        "state": "District of Columbia",
+        "state_short": "DC",
+        "country": "United States",
+        "country_short": "US"
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events/21",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/types/events"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 25,
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events/21/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 214,
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events/21/revisions/214"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/media/22"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/media?parent=21"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "events_categories",
+          "embeddable": true,
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events_categories?post=21"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 15,
+    "date": "2023-04-12T23:13:14",
+    "date_gmt": "2023-04-12T23:13:14",
+    "guid": {
+      "rendered": "https://ll-sandbox.mystagingwebsite.com/events/?post_type=events&#038;p=15"
+    },
+    "modified": "2023-04-14T22:47:23",
+    "modified_gmt": "2023-04-14T22:47:23",
+    "slug": "test-event",
+    "status": "publish",
+    "type": "events",
+    "link": "https://ll-sandbox.mystagingwebsite.com/events/events/test-event/",
+    "title": {
+      "rendered": "Test event"
+    },
+    "content": {
+      "rendered": "\n\u003Cp\u003Ejdshafasl ahsdjfhljaskfdhaslhfjkas flhjkasdhf jkashflaskjhfla\u003C/p\u003E\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "\u003Cp\u003Ejdshafasl ahsdjfhljaskfdhaslhfjkas flhjkasdhf jkashflaskjhfla\u003C/p\u003E\n",
+      "protected": false
+    },
+    "featured_media": 0,
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "footnotes": ""
+    },
+    "events_categories": [
+      6
+    ],
+    "class_list": [
+      "post-15",
+      "events",
+      "type-events",
+      "status-publish",
+      "hentry",
+      "events_categories-c"
+    ],
+    "acf": {
+      "start_date": "20230818",
+      "end_date": null,
+      "recurrence_frequency": "0",
+      "starting_time": "21:00:00",
+      "ending_time": "23:00:00",
+      "event_place": false,
+      "virtual_event_link": "",
+      "location_name": "",
+      "location_address": null
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events/15",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/types/events"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 2,
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events/15/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 17,
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events/15/revisions/17"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/media?parent=15"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "events_categories",
+          "embeddable": true,
+          "href": "https://ll-sandbox.mystagingwebsite.com/events/wp-json/wp/v2/events_categories?post=15"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+]

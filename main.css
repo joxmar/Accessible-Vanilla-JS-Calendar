@@ -13,12 +13,23 @@
 .day-names {
   display: grid;
   font-size: var(--kalel-fz, small);
-  grid-row-gap: var(--kalel-row-gap, 0.33em);
+  /* grid-row-gap: var(--kalel-row-gap, 0.33em); */
   grid-template-columns: var(--kalel-gtc, repeat(7, 1fr));
   list-style: none;
   margin: unset;
   padding: unset;
   position: relative;
+}
+
+.calendar {
+  min-height: 100vh;
+}
+
+/* add border to calendar days */
+.calendar li {
+  border: 1px solid #eaeaea;
+  border-radius: 4px;
+  padding: 0.5rem;
 }
 
 .current-day {

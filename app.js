@@ -11,7 +11,7 @@ function getFirstDayOfMonth(year, month) {
 }
 
 // Generate a calendar for the specified year and months
-function generateCalendar(year, month, numberOfMonths) {
+function generateCalendar(year, month, numberOfMonths, pastMonths = false) {
   const app = document.getElementById('app');
 
   for (let i = 0; i < numberOfMonths; i++) {
@@ -19,16 +19,22 @@ function generateCalendar(year, month, numberOfMonths) {
     calendarContainer.className = 'calendar-container';
     // add role="region" to the calendar container
     calendarContainer.setAttribute('role', 'region');
+    let currentMonth, currentYear;
+    if (pastMonths) {
+      console.log(pastMonths);
+      currentMonth = (month - i) % 12;
+      currentYear = year - Math.floor((month - i) / 12);
+    } else {
+      console.log(pastMonths);
+      currentMonth = (month + i) % 12;
+      currentYear = year + Math.floor((month + i) / 12);
+    }
 
-    const currentMonth = (month + i) % 12;
-    const currentYear = year + Math.floor((month + i) / 12);
+    // const currentMonth = (month + i) % 12;
+    // const currentYear = year + Math.floor((month + i) / 12);
 
     const daysInMonth = getDaysInMonth(currentYear, currentMonth);
     const firstDay = getFirstDayOfMonth(currentYear, currentMonth);
-    const calendar = document.createElement('ol');
-    calendar.className = 'calendar';
-    // add role="grid" to the calendar
-    calendar.setAttribute('role', 'grid');
 
     // Add month and year header
     const monthYearHeader = document.createElement('h2');
@@ -38,6 +44,11 @@ function generateCalendar(year, month, numberOfMonths) {
     ).toLocaleString('default', { month: 'long' })} ${currentYear}`;
     monthYearHeader.className = 'month-year-header';
     calendarContainer.appendChild(monthYearHeader);
+
+    // build calendar
+    const calendar = document.createElement('ol');
+    calendar.className = 'calendar';
+    calendar.setAttribute('role', 'grid');
 
     // Add day names row
     const dayNames = [
@@ -108,5 +119,6 @@ document.addEventListener('DOMContentLoaded', () => {
   const month = new Date().getMonth();
   const numberOfMonths = 8; // Change this value to display more or fewer months
   const calendar = generateCalendar(year, month, numberOfMonths);
-  app.appendChild(calendar);
+  // add true for past months like:
+  // generateCalendar(year, month, numberOfMonths, true);
 });

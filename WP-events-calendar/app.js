@@ -41,7 +41,12 @@ function isDateInRange(date, startDate, endDate) {
 }
 
 // Generate a calendar for the specified year and months
-async function generateCalendar(year, month, numberOfMonths) {
+async function generateCalendar(
+  year,
+  month,
+  numberOfMonths,
+  pastMonths = false
+) {
   const app = document.getElementById('app');
   const events = await fetchEvents();
 
@@ -50,14 +55,25 @@ async function generateCalendar(year, month, numberOfMonths) {
     calendarContainer.className = 'calendar-container';
     calendarContainer.setAttribute('role', 'region');
 
-    const currentMonth = (month + i) % 12;
-    const currentYear = year + Math.floor((month + i) / 12);
+    let currentMonth, currentYear;
+    // check if we want to display past months instead
+    if (pastMonths) {
+      // if true show past months
+      console.log(pastMonths);
+      currentMonth = (month - i) % 12;
+      currentYear = year + Math.floor((month - i) / 12);
+    } else {
+      // show upcoming months
+      console.log(pastMonths);
+      currentMonth = (month + i) % 12;
+      currentYear = year + Math.floor((month + i) / 12);
+    }
+
+    // const currentMonth = (month + i) % 12;
+    // const currentYear = year + Math.floor((month + i) / 12);
 
     const daysInMonth = getDaysInMonth(currentYear, currentMonth);
     const firstDay = getFirstDayOfMonth(currentYear, currentMonth);
-    const calendar = document.createElement('ol');
-    calendar.className = 'calendar';
-    calendar.setAttribute('role', 'grid');
 
     // Add month and year header
     const monthYearHeader = document.createElement('h2');
@@ -67,6 +83,11 @@ async function generateCalendar(year, month, numberOfMonths) {
     ).toLocaleString('default', { month: 'long' })} ${currentYear}`;
     monthYearHeader.className = 'month-year-header';
     calendarContainer.appendChild(monthYearHeader);
+
+    // build calendar
+    const calendar = document.createElement('ol');
+    calendar.className = 'calendar';
+    calendar.setAttribute('role', 'grid');
 
     // Add day names row
     const dayNames = [
@@ -147,5 +168,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const year = new Date().getFullYear();
   const month = new Date().getMonth();
   const numberOfMonths = 13; // Change this value to display more or fewer months
-  generateCalendar(year, month, numberOfMonths);
+  generateCalendar(year, month, numberOfMonths, true);
+  // add true for past months like:
+  // generateCalendar(year, month, numberOfMonths, true);
 });
